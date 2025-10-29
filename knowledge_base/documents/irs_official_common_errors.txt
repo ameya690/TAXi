@@ -1,0 +1,276 @@
+IRS Official Guide: Common Errors for the Earned Income Tax Credit (EITC)
+Source: IRS.gov Official Website
+
+FIVE COMMON ERRORS YOU NEED TO AVOID
+
+The IRS has identified the most common errors that taxpayers make when claiming the Earned Income Tax Credit. Avoiding these errors will help you get your refund faster and reduce the chance of an audit.
+
+ERROR #1: YOUR CHILD DOESN'T QUALIFY
+
+Most EITC errors happen because the child claimed doesn't meet the qualification rules. Your child must meet ALL FOUR tests:
+
+1. RELATIONSHIP TEST: The child must be related to you
+   - Your son, daughter, stepchild, adopted child, or foster child
+   - Your brother, sister, half-brother, half-sister, stepbrother, or stepsister
+   - Your grandchild, niece, or nephew
+
+2. RESIDENCY TEST: The child must live in the same home as you for more than half the tax year
+   - Must be in the United States (50 states, DC, or U.S. military bases)
+   - Temporary absences (school, vacation, medical) count as living with you
+   - Must be more than 6 months (183 days)
+
+3. AGE TEST: The child must meet the age requirements
+   - Under 19 at end of year and younger than you, OR
+   - Under 24 at end of year, a full-time student, and younger than you, OR
+   - Any age if permanently and totally disabled
+
+4. JOINT RETURN TEST: The child must not file a joint return with another person
+   - Exception: Joint return filed only to claim refund of withheld taxes
+   - If filing joint return to claim credits like EITC, child doesn't qualify
+
+HOW TO AVOID THIS ERROR:
+✓ Verify all four tests are met
+✓ Keep documentation for each test
+✓ Use the IRS EITC Assistant to check eligibility
+✓ Review the official qualifying child rules on IRS.gov
+
+Related Resource: IRS Publication 596, Qualifying Children for the Earned Income Tax Credit (EITC)
+
+ERROR #2: MORE THAN ONE PERSON CLAIMED THE CHILD
+
+This error occurs when multiple people try to claim the same child. Only ONE person can claim a child for EITC purposes.
+
+COMMON SCENARIOS:
+- Divorced or separated parents both claiming the same child
+- Grandparent and parent both claiming the same child
+- Two relatives in the same household both claiming the same child
+- Child living with different people during the year
+
+THE RULE:
+The child must have lived with you for more than half of the tax year to be YOUR qualifying child.
+
+TIEBREAKER RULES:
+If more than one person can claim the same child, the IRS uses tiebreaker rules:
+1. Parent has priority over non-parent
+2. If both parents claim, child goes to parent child lived with longest
+3. If equal time with both parents, child goes to parent with higher AGI
+4. If no parent claims, child goes to person with highest AGI
+
+IMPORTANT NOTE FOR DIVORCED/SEPARATED PARENTS:
+- Form 8332 releases the dependency exemption and child tax credit
+- Form 8332 does NOT release the EITC
+- For EITC, the custodial parent (where child lived longest) claims the credit
+- Custody agreements don't override IRS rules
+
+HOW TO AVOID THIS ERROR:
+✓ Communicate with other potential claimants
+✓ Understand tiebreaker rules
+✓ Keep records of where child lived throughout the year
+✓ Know the difference between dependency exemption and EITC rules
+✓ File early to establish your claim
+
+Related Resource: IRS Publication 596, Qualifying Children for the Earned Income Tax Credit (EITC)
+
+ERROR #3: SOCIAL SECURITY NUMBER OR LAST NAME DON'T MATCH
+
+This is a very common error that's easy to prevent.
+
+THE REQUIREMENT:
+The Social Security number and name must match EXACTLY how they appear on the Social Security card for everyone listed on your tax return.
+
+COMMON MISTAKES:
+- Transposed digits in SSN
+- Wrong SSN entered
+- Name doesn't match Social Security card exactly
+- Using maiden name when SSN card has married name
+- Nicknames instead of legal names
+- Misspellings
+- Missing hyphens or spaces in names
+
+SPECIAL SITUATIONS:
+- Recently married and changed name: Get new Social Security card BEFORE filing
+- Recently changed name for any reason: Update with Social Security Administration first
+- Child's name doesn't match card: Get corrected card before filing
+- Using "Not valid for employment" SSN: These DO NOT qualify for EITC
+
+HOW TO AVOID THIS ERROR:
+✓ Have Social Security cards in front of you when preparing return
+✓ Double-check every digit of every SSN
+✓ Use exact name as it appears on Social Security card
+✓ Update Social Security Administration BEFORE filing taxes if name changed
+✓ Ensure all SSNs are valid for employment
+✓ Don't use ITINs - EITC requires SSNs
+
+WHAT TO DO IF NAMES DON'T MATCH:
+1. Contact Social Security Administration
+2. Update name on Social Security card
+3. Wait to file tax return until new card received
+4. Use exact name from new card on tax return
+
+Related Resource: IRS Publication 596, Qualifying Children for the Earned Income Tax Credit (EITC)
+
+ERROR #4: MARRIED AND FILED AS SINGLE OR HEAD OF HOUSEHOLD
+
+Using the wrong filing status is a serious error that can disqualify your EITC claim entirely.
+
+THE RULE:
+You can't claim the EITC using the single or head of household filing status if you are married AND you lived with your spouse during the last six months of the year.
+
+COMMON SCENARIOS THAT CAUSE THIS ERROR:
+- Married taxpayers filing as Single when they should file Married Filing Jointly
+- Married taxpayers filing as Head of Household incorrectly
+- Not understanding "considered unmarried" rules
+- Temporary separations treated as permanent
+- Living apart but not legally separated
+
+CORRECT FILING STATUSES:
+If you're married and lived together any time in last 6 months of the year:
+- You MUST file as Married Filing Jointly or Married Filing Separately
+- You generally CANNOT claim EITC if filing Married Filing Separately
+- Therefore, if married and living together, you must file jointly to claim EITC
+
+EXCEPTION - "CONSIDERED UNMARRIED":
+You may be able to file as Head of Household and claim EITC even if married if:
+- You file a separate return from your spouse
+- You paid more than half the cost of keeping up your home for the year
+- Your spouse did not live in your home during the last 6 months of the year
+- Your home was the main home of your child, stepchild, or foster child for more than half the year
+- You can claim the child as a dependent
+
+HOW TO AVOID THIS ERROR:
+✓ Know your true marital status on December 31
+✓ Understand "considered unmarried" rules
+✓ Don't file as Single if you're married
+✓ Use IRS Interactive Tax Assistant to determine correct filing status
+✓ Keep records if claiming "considered unmarried" status
+✓ Consult a tax professional if your situation is complex
+
+Related Resource: IRS Publication 501, Who Qualifies for the Earned Income Tax Credit (EITC)
+
+ERROR #5: OVER OR UNDERREPORTING YOUR INCOME OR EXPENSES
+
+Accurate income and expense reporting is critical for EITC. The IRS receives copies of all your income documents and will catch discrepancies.
+
+INCOME REPORTING REQUIREMENTS:
+Include ALL forms of income when calculating your earned income:
+- Forms W-2 (all of them if you had multiple jobs)
+- Forms W-2G (gambling winnings)
+- Forms 1099-MISC (miscellaneous income)
+- Forms 1099-NEC (non-employee compensation)
+- Forms 1099-K (payment card and third party network transactions)
+- All other records of income, including income not reported on an IRS form
+- Cash payments
+- Tips not reported on W-2
+- Self-employment income
+
+IF INCOME DOESN'T MATCH IRS RECORDS:
+You may be required to submit additional documentation such as:
+- Periodic pay statements (pay stubs)
+- Electronic payment records
+- Bank statements
+- A letter from your employer on company letterhead stating:
+  * Dates of employment
+  * Gross amount of wages paid
+  * Withholdings deducted
+
+SELF-EMPLOYMENT INCOME AND EXPENSES:
+- Report ALL income you earn from running or owning a business or farm
+- You can deduct all ALLOWABLE expenses
+- You cannot deduct personal expenses
+- You cannot inflate expenses
+- Keep detailed records and receipts
+
+COMMON MISTAKES:
+- Forgetting to report a W-2 from a short-term job
+- Not reporting cash income
+- Overstating business expenses
+- Deducting personal expenses as business expenses
+- Not keeping receipts for business expenses
+- Underreporting income to stay under EITC limits
+- Including non-earned income in earned income calculation
+
+HOW TO AVOID THIS ERROR:
+✓ Gather ALL income documents before filing
+✓ Wait to file until you have all W-2s and 1099s (usually by February)
+✓ Report cash and informal income
+✓ Keep detailed business records and receipts
+✓ Only deduct legitimate business expenses
+✓ Don't inflate expenses or reduce income to qualify for more EITC
+✓ Use tax software that imports W-2 and 1099 data
+✓ Double-check all numbers before filing
+
+CONSEQUENCES OF MISREPORTING:
+- Delayed refund while IRS verifies information
+- Additional documentation requests
+- Denial of EITC claim
+- Requirement to pay back incorrectly claimed credit
+- Penalties and interest
+- Potential EITC ban (2 years, 10 years, or lifetime depending on severity)
+- Criminal prosecution in cases of fraud
+
+BE HONEST:
+The EITC is valuable, but it's never worth committing fraud. If you honestly report all income and expenses and genuinely qualify, you have nothing to worry about. If you don't qualify, don't try to manipulate numbers to qualify.
+
+ADDITIONAL TIPS TO AVOID ERRORS
+
+1. USE IRS FREE FILE OR TAX SOFTWARE
+   - Helps catch common errors
+   - Imports income information
+   - Checks math automatically
+   - Prompts for required forms
+
+2. USE IRS EITC ASSISTANT
+   - Free tool on IRS.gov
+   - Checks eligibility before filing
+   - Estimates credit amount
+   - Available in English and Spanish
+
+3. GET FREE TAX HELP
+   - VITA (Volunteer Income Tax Assistance) for income under $60,000
+   - TCE (Tax Counseling for the Elderly) for age 60+
+   - IRS Taxpayer Assistance Centers
+   - IRS helpline: 1-800-829-1040
+
+4. FILE ELECTRONICALLY
+   - Reduces errors
+   - Faster processing
+   - Get refund sooner (after mid-February for EITC)
+
+5. CHOOSE DIRECT DEPOSIT
+   - Fastest way to get refund
+   - No lost or stolen checks
+   - No waiting for mail
+
+6. KEEP GOOD RECORDS
+   - Keep copies of all documents
+   - Maintain records for at least 3 years
+   - Be ready if IRS asks for documentation
+
+7. REVIEW BEFORE FILING
+   - Check all names and SSNs
+   - Verify all income is included
+   - Confirm children meet all four tests
+   - Ensure correct filing status
+   - Read through entire return
+
+8. RESPOND PROMPTLY TO IRS LETTERS
+   - Don't ignore IRS correspondence
+   - Provide requested documentation quickly
+   - Use certified mail for important documents
+   - Keep copies of everything you send
+
+WHERE TO FIND MORE INFORMATION
+
+- IRS.gov/EITC - Main EITC page
+- IRS Publication 596 - Earned Income Credit (complete guide)
+- IRS EITC Assistant - Online eligibility tool
+- IRS Free File - Free tax filing for qualifying taxpayers
+- Form 886-H-EIC Toolkit - Audit documentation guide
+
+Remember: Taking time to avoid these common errors will help you get your EITC refund faster and reduce the chance of problems with the IRS.
+
+Source: IRS.gov official website
+Publication: Common Errors for the Earned Income Tax Credit (EITC)
+Last Updated: 2024
+
+Disclaimer: This information is for general guidance only. Tax laws are complex and change frequently. Consult IRS Publication 596 or a qualified tax professional for your specific situation. Informational only, not tax advice.

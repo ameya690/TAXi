@@ -1,0 +1,31 @@
+# Core Flask
+Flask==2.3.3
+Flask-Cors==4.0.0
+Flask-Limiter==3.5.0
+
+# ML / LLM (no OpenAI)
+transformers==4.43.3
+accelerate==0.33.0
+safetensors==0.4.3
+
+# Retrieval
+sentence-transformers==3.0.1
+faiss-cpu==1.8.0.post1
+
+# Doc processing
+PyPDF2==3.0.1
+python-docx==1.1.0
+
+# Data
+numpy==1.26.4
+scikit-learn==1.5.1
+
+# Utils
+pydantic==2.8.2
+python-dotenv==1.0.1
+structlog==24.1.0
+prometheus-client==0.20.0
+
+# Testing
+pytest==8.2.0
+pytest-flask==1.3.0

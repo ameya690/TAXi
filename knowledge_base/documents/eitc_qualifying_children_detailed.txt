@@ -1,0 +1,110 @@
+EITC Qualifying Children - Detailed Rules and Tests
+
+Complete Guide to Qualifying Children for EITC
+
+A child must meet ALL four tests to be your qualifying child for the EITC:
+1. Relationship Test
+2. Age Test
+3. Residency Test
+4. Joint Return Test
+
+RELATIONSHIP TEST
+
+The child must be your:
+- Son, daughter, adopted child, or foster child placed by an authorized agency
+- Stepchild
+- Brother, sister, half-brother, half-sister, stepbrother, or stepsister
+- Grandchild, niece, nephew, or any descendant of any of the above
+
+Important Relationship Notes:
+- Foster child: A child placed with you by an authorized placement agency or by court order
+- Adopted child: Includes a child lawfully placed with you for legal adoption
+- If parents are divorced or separated, special tiebreaker rules apply
+
+AGE TEST
+
+The child must be:
+- Under age 19 at the end of the tax year, OR
+- Under age 24 at the end of the tax year AND a full-time student, OR
+- Any age if permanently and totally disabled
+
+Full-Time Student Definition:
+- Enrolled at a school for at least 5 months during the tax year
+- School includes technical, trade, and mechanical schools
+- Correspondence schools and online schools count if all other requirements are met
+- The 5 months don't have to be consecutive
+
+Permanently and Totally Disabled:
+- The child is unable to engage in any substantial gainful activity
+- The disability must be expected to last continuously for at least 12 months or result in death
+- You must have a doctor's statement that can be provided if requested by the IRS
+
+Age Calculation Example:
+If your child turns 19 on December 31, 2024, they are considered 19 at the end of the year and do NOT meet the age test (unless they are a full-time student or disabled).
+
+RESIDENCY TEST
+
+The child must have lived with you in the United States for more than half of the tax year (more than 6 months).
+
+What Counts as Living With You:
+- Your main home in the 50 states or District of Columbia
+- Military personnel stationed outside the U.S. can still meet this test
+
+Temporary Absences:
+Time away for the following reasons COUNTS as living with you:
+- School
+- Business
+- Vacation
+- Medical care
+- Military service
+- Detention in a juvenile facility
+
+Special Situations:
+- Child born during the year: The child meets the residency test if your home was the child's home for the entire time they were alive
+- Child died during the year: The child meets the residency test if your home was the child's home for the entire time they were alive
+- Kidnapped child: May be treated as living with you under special rules
+
+JOINT RETURN TEST
+
+The child cannot file a joint tax return with their spouse for the year UNLESS:
+- They only file to claim a refund of withheld taxes or estimated taxes paid, AND
+- Neither spouse would have a tax liability on a separate return
+
+Example:
+Your 18-year-old son and his wife file a joint return only to get a refund of tax withheld. Neither would owe tax if they filed separately. Your son can still be your qualifying child.
+
+TIEBREAKER RULES
+
+If a child meets the tests to be a qualifying child of more than one person, tiebreaker rules determine who can claim the EITC:
+
+1. If only one person is the child's parent, the child is treated as the qualifying child of the parent
+2. If both parents claim the child and don't file a joint return together, the IRS will treat the child as the qualifying child of the parent with whom the child lived for the longer period during the year
+3. If the child lived with each parent the same amount of time, the IRS will treat the child as the qualifying child of the parent with the higher AGI
+4. If no parent can claim the child, the child is treated as the qualifying child of the person with the highest AGI
+5. If a parent can claim the child but doesn't, the child is treated as the qualifying child of the person with the highest AGI (but only if that person's AGI is higher than the AGI of any parent who could claim the child)
+
+MULTIPLE QUALIFYING CHILDREN
+
+You can claim the EITC for more than one qualifying child. The credit amount increases with the number of qualifying children:
+- 1 qualifying child: Larger credit than no children
+- 2 qualifying children: Even larger credit
+- 3 or more qualifying children: Maximum credit amount
+
+All children must meet ALL four tests independently.
+
+COMMON MISTAKES TO AVOID
+
+1. Claiming a child who doesn't meet the age test
+2. Claiming a child who didn't live with you for more than 6 months
+3. Not applying tiebreaker rules when multiple people could claim the same child
+4. Claiming a child who is also claimed by another taxpayer
+5. Failing to provide required documentation if audited
+
+DOCUMENTATION TO KEEP
+
+Always keep records that prove:
+- The child's relationship to you (birth certificate, adoption papers, etc.)
+- The child's age (birth certificate, hospital records)
+- The child lived with you (school records, medical records, official letters with your address)
+
+Source: IRS Publication 596, IRS Topic 607, Schedule EIC Instructions

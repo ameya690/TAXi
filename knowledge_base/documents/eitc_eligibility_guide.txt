@@ -1,0 +1,60 @@
+EITC Eligibility Requirements - Detailed Guide
+
+EARNED INCOME TAX CREDIT (EITC) ELIGIBILITY CHECKLIST
+
+To claim the Earned Income Tax Credit, you must meet ALL of the following requirements:
+
+1. EARNED INCOME REQUIREMENT
+You must have earned income from:
+- Wages, salaries, tips
+- Self-employment income
+- Union strike benefits
+- Long-term disability benefits (before minimum retirement age)
+- Nontaxable combat pay (if you elect to include it)
+
+Investment income (interest, dividends, capital gains) must be $11,000 or less for 2024.
+
+2. SOCIAL SECURITY REQUIREMENT
+- You must have a valid Social Security Number issued before the due date of your return
+- Your spouse (if filing jointly) must also have a valid SSN
+- Qualifying children must have valid SSNs
+
+3. CITIZENSHIP/RESIDENCY REQUIREMENT
+- You must be a U.S. citizen or resident alien for the entire tax year
+- You cannot file Form 2555 (Foreign Earned Income Exclusion)
+
+4. FILING STATUS REQUIREMENT
+- You cannot file as "Married Filing Separately"
+- You must file a federal income tax return
+
+5. QUALIFYING CHILD REQUIREMENTS (if claiming credit for children)
+
+For each child, ALL of these must be true:
+- Relationship: Child, stepchild, foster child, sibling, or descendant
+- Age: Under 19 (under 24 if full-time student), or any age if permanently disabled
+- Residency: Lived with you in the U.S. for more than half the year
+- Joint Return: Did not file a joint return (except to claim refund)
+
+6. INCOME LIMITS (2024 Tax Year)
+
+Maximum AGI for EITC eligibility:
+- No children: $18,591
+- One child: $49,084
+- Two children: $55,768
+- Three+ children: $59,899
+
+7. DISQUALIFYING FACTORS
+You cannot claim EITC if:
+- You (or spouse) lived outside U.S. for more than half the year
+- You are claimed as a dependent on someone else's return
+- You have foreign earned income and file Form 2555
+
+SPECIAL RULES:
+- Military personnel: Combat pay can be included if elected
+- Clergy: Housing allowance is not earned income for EITC
+- Disability: Long-term disability may qualify before minimum retirement age
+
+Remember: These are general guidelines. Tax situations vary. Use the IRS EITC Assistant or consult Publication 596 for specific guidance.
+
+Last updated: 2024 Tax Year
+Source: IRS Publication 596

@@ -1,0 +1,304 @@
+IRS Official: Types of Earned Income for EITC - Complete Guide
+Source: IRS.gov Official Website
+
+WHAT IS EARNED INCOME?
+
+Earned income is income you receive from working. For the Earned Income Tax Credit (EITC), earned income includes only certain types of compensation for work.
+
+TYPES OF EARNED INCOME THAT COUNT FOR EITC
+
+1. WAGES, SALARIES, AND TIPS
+
+**What Counts:**
+- Wages and salaries from Form W-2
+- Tips you reported to your employer
+- Tips you didn't report to your employer (still must be reported on your tax return)
+- Elective salary deferrals (401k, 403b, etc.)
+- Bonuses and commissions
+- Overtime pay
+- Hazard pay
+- Severance pay (in some cases)
+
+**Where to Find It:**
+- Box 1 of Form W-2
+- Box 7 of Form W-2 (Social Security tips)
+- Additional unreported tips you add to your return
+
+2. SELF-EMPLOYMENT INCOME
+
+**What Counts:**
+- Net profit from a business you own (Schedule C)
+- Net profit from farming (Schedule F)
+- Earnings from freelance or gig work
+- Income as an independent contractor
+- Earnings from 1099-NEC or 1099-MISC work
+
+**How It's Calculated:**
+Gross receipts MINUS business expenses = Net profit
+
+**Important Notes:**
+- Must subtract 1/2 of self-employment tax from net profit
+- Loss from self-employment reduces earned income
+- Cannot create negative earned income below zero
+
+**Example:**
+Gross business income: $45,000
+Business expenses: $10,000
+Net profit: $35,000
+Self-employment tax: $4,945
+Half of SE tax: $2,473
+**Earned income for EITC: $32,527**
+
+3. UNION STRIKE BENEFITS
+
+**What Counts:**
+- Benefits you receive from union strike funds
+- Amounts paid by union during labor disputes
+
+**Where to Find It:**
+- May be reported on Form 1099-MISC
+- Report as earned income even if not on a form
+
+4. LONG-TERM DISABILITY BENEFITS
+
+**What Counts (Before Minimum Retirement Age):**
+- Long-term disability payments received before you reach minimum retirement age
+- Payments from insurance policy paid for by employer
+
+**What Doesn't Count (After Minimum Retirement Age):**
+- Disability payments after minimum retirement age
+- These become retirement income, not earned income
+
+**Minimum Retirement Age:**
+- Typically age 62 for Social Security purposes
+- May vary based on your specific plan
+
+5. NONTAXABLE COMBAT PAY (OPTIONAL)
+
+**For Military Members:**
+- Combat pay that's normally not taxed
+- You can ELECT to include it as earned income for EITC
+- Often beneficial to include it if it increases your EITC
+- Make the election on Form 1040
+
+**Example:**
+If including combat pay gets you a higher EITC than the tax you'd pay on it, include it.
+
+TYPES OF INCOME THAT DO NOT COUNT AS EARNED INCOME
+
+1. **Social Security Retirement Benefits**
+   - Not earned income
+   - Doesn't count toward EITC
+
+2. **Social Security Disability Insurance (SSDI)**
+   - Not earned income for EITC purposes
+   - Different from long-term disability
+
+3. **Supplemental Security Income (SSI)**
+   - Not earned income
+   - Government benefit, not work compensation
+
+4. **Unemployment Compensation**
+   - Not earned income
+   - Payment for being unemployed, not for work
+
+5. **Pensions and Annuities**
+   - Not earned income
+   - Retirement income, not current work
+
+6. **Alimony and Child Support**
+   - Not earned income
+   - Not compensation for work
+
+7. **Welfare Benefits**
+   - TANF, SNAP, housing assistance
+   - Not earned income
+
+8. **Interest and Dividends**
+   - Investment income, not earned income
+   - Subject to $11,000 investment income limit
+
+9. **Capital Gains**
+   - Investment income, not earned income
+   - Subject to $11,000 investment income limit
+
+10. **Rental Income (Passive)**
+    - Not earned income (unless you're a real estate professional)
+    - Investment income
+
+11. **Scholarships and Grants**
+    - For tuition and books: not earned income
+    - For room and board: taxable but not earned income
+
+12. **Workers' Compensation**
+    - Not earned income
+    - Payment for injury, not work
+
+13. **Veterans' Benefits**
+    - Not earned income
+    - Exception: VA work therapy earnings may count
+
+14. **Certain Foreign Earned Income**
+    - If you claim foreign earned income exclusion (Form 2555)
+    - You cannot claim EITC
+
+SPECIAL CASES AND RULES
+
+CLERGY HOUSING ALLOWANCE:
+- Counts as earned income for EITC
+- Even though it's not taxable
+- Include when calculating earned income
+
+MILITARY BASIC ALLOWANCE FOR HOUSING (BAH):
+- Does not count as earned income
+- Nontaxable military benefit
+
+DISABILITY INSURANCE PAYMENTS:
+- Depends on who paid premiums:
+  - **Employer-paid:** May count as earned income before retirement age
+  - **You paid:** Not earned income
+
+ENERGY CONSERVATION SUBSIDIES:
+- Not earned income
+- Utility company payment, not work
+
+ADOPTION ASSISTANCE:
+- Not earned income
+- Employer benefit, not wages
+
+STATUTORY EMPLOYEES:
+- Report income on Schedule C
+- Check box 13 on Form W-2
+- Counts as earned income
+
+HOW TO CALCULATE YOUR EARNED INCOME
+
+STEP 1: Add all W-2 wages (Box 1)
+STEP 2: Add all tips (reported and unreported)
+STEP 3: Add net profit from Schedule C
+STEP 4: Add net profit from Schedule F
+STEP 5: Add union strike benefits
+STEP 6: Add long-term disability (if before retirement age)
+STEP 7: Add nontaxable combat pay (if you elect to include it)
+STEP 8: Subtract 1/2 of self-employment tax
+
+= TOTAL EARNED INCOME FOR EITC
+
+EXAMPLES OF EARNED INCOME CALCULATIONS
+
+EXAMPLE 1: W-2 Employee
+- W-2 wages: $28,000
+- Tips (unreported): $2,000
+- **Total earned income: $30,000**
+
+EXAMPLE 2: Self-Employed
+- Gross business income: $50,000
+- Business expenses: $18,000
+- Net profit: $32,000
+- Self-employment tax: $4,521
+- Half of SE tax: $2,261
+- **Earned income: $29,739** ($32,000 - $2,261)
+
+EXAMPLE 3: Multiple Jobs
+- W-2 Job 1: $15,000
+- W-2 Job 2: $8,000
+- Side business net profit: $5,000
+- SE tax on side business: $707
+- Half of SE tax: $354
+- **Earned income: $27,646** (15,000 + 8,000 + 5,000 - 354)
+
+EXAMPLE 4: Military with Combat Pay
+- Regular military pay (taxable): $35,000
+- Combat pay (nontaxable): $10,000
+- Elect to include combat pay: Yes
+- **Earned income: $45,000**
+
+IMPORTANT DISTINCTIONS
+
+EARNED INCOME vs. ADJUSTED GROSS INCOME (AGI):
+- **Earned income:** Only from work
+- **AGI:** All income minus certain deductions
+- **EITC uses the LESSER of earned income OR AGI**
+
+EARNED INCOME vs. TAXABLE INCOME:
+- **Earned income:** Specific types from work
+- **Taxable income:** AGI minus standard or itemized deductions
+- **EITC based on earned income, not taxable income**
+
+EARNED INCOME vs. GROSS INCOME:
+- **Earned income:** Only work-related compensation
+- **Gross income:** All income from all sources
+- **Earned income is a subset of gross income**
+
+WHERE TO REPORT EARNED INCOME
+
+ON YOUR TAX RETURN:
+- Form 1040, line 1: Wages, salaries, tips
+- Schedule C: Business income
+- Schedule F: Farm income  
+- Schedule EIC: If claiming with children
+
+THE IRS WILL VERIFY:
+- W-2s and 1099s are matched to your return
+- Self-employment income against bank deposits
+- All sources of income
+
+WHY IT MATTERS
+
+EITC ELIGIBILITY:
+- Must have earned income to qualify
+- Amount of credit based on earned income
+- Too little earned income = no credit
+- Too much earned income = no credit
+- There's a "sweet spot" for maximum credit
+
+STRATEGY:
+- Understand what counts as earned income
+- Report all earned income (IRS will find it anyway)
+- Don't confuse earned income with other income types
+- Calculate correctly to maximize EITC
+
+COMMON MISTAKES TO AVOID
+
+❌ Counting Social Security as earned income
+❌ Counting unemployment as earned income
+❌ Forgetting to subtract 1/2 SE tax
+❌ Not reporting cash income
+❌ Including investment income as earned income
+❌ Confusing earned income with AGI
+❌ Not electing to include combat pay when beneficial
+
+✓ Only count income from work
+✓ Include ALL W-2 wages
+✓ Calculate self-employment income correctly
+✓ Report tips (even unreported ones)
+✓ Consider combat pay election
+✓ Subtract 1/2 of SE tax
+✓ Keep good records
+
+SUMMARY CHECKLIST
+
+EARNED INCOME FOR EITC:
+☑ W-2 wages, salaries, tips
+☑ Net self-employment income (minus 1/2 SE tax)
+☑ Union strike benefits
+☑ Long-term disability (before retirement age)
+☑ Nontaxable combat pay (if elected)
+
+NOT EARNED INCOME:
+☐ Social Security benefits
+☐ Unemployment compensation
+☐ Pensions and annuities
+☐ Investment income
+☐ Welfare benefits
+☐ Alimony and child support
+☐ Most nontaxable income
+
+For detailed information on specific types of income, consult:
+- IRS Publication 596 (Earned Income Credit)
+- IRS Publication 525 (Taxable and Nontaxable Income)
+- IRS.gov EITC resources
+
+Source: IRS.gov - Earned Income and EITC Tables
+Last Updated: 2024
+Informational only, not tax advice.

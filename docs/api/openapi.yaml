@@ -1,0 +1,42 @@
+openapi: 3.0.3
+info:
+  title: TAXI — EITC Assistant API
+  version: "0.1.0"
+paths:
+  /health:
+    get:
+      summary: Health check
+      responses:
+        "200":
+          description: OK
+  /api/ask:
+    post:
+      summary: Ask an EITC question (RAG)
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                question:
+                  type: string
+                lang:
+                  type: string
+                  enum: [en, es]
+              required: [question]
+      responses:
+        "200":
+          description: Answer with citations
+  /api/eligibility/schema:
+    get:
+      summary: Questionnaire schema
+      responses:
+        "200":
+          description: Schema
+  /api/eligibility/assess:
+    post:
+      summary: Run eligibility screening (informational)
+      responses:
+        "200":
+          description: Result

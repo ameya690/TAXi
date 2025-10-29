@@ -1,0 +1,67 @@
+EITC Income Calculation and Earned Income Types
+
+Understanding Earned Income for EITC
+
+Earned income includes all income from employment and self-employment. The EITC is based on your earned income and adjusted gross income (AGI), and you must use the smaller of the two amounts to calculate your credit.
+
+Types of Earned Income:
+1. Wages, salaries, and tips - All amounts shown in box 1 of your Form W-2
+2. Self-employment income - Net earnings from self-employment (Schedule C or Schedule F)
+3. Union strike benefits
+4. Long-term disability benefits received before minimum retirement age
+5. Nontaxable combat pay (optional - you can elect to include it)
+
+Income That Does NOT Count as Earned Income:
+- Interest and dividends
+- Pensions and annuities
+- Social Security benefits
+- Unemployment benefits
+- Alimony and child support
+- Welfare benefits
+- Workers' compensation
+- Income of a nonresident alien
+- Income earned while an inmate in a penal institution
+
+Investment Income Limit:
+For tax year 2024, your investment income must be $11,000 or less to qualify for EITC. Investment income includes:
+- Taxable interest
+- Tax-exempt interest
+- Dividends
+- Capital gain net income
+- Royalties
+- Rental income (passive)
+
+Self-Employment Income Calculation:
+If you're self-employed, your earned income is your net earnings from self-employment. This is calculated as:
+- Gross income from self-employment
+- Minus: Business expenses
+- Minus: One-half of self-employment tax
+= Net earnings from self-employment
+
+Important Notes:
+1. If you have a loss from self-employment, it can reduce your total earned income
+2. You cannot have negative earned income for EITC purposes
+3. Ministers and church employees may have special rules
+4. Conservation Reserve Program (CRP) payments may count as earned income if you elect to treat them as such
+
+AGI vs. Earned Income:
+The EITC calculation uses the LESSER of:
+- Your adjusted gross income (AGI), OR
+- Your earned income
+
+This means if your AGI is higher than your earned income (perhaps due to other income sources), you'll use your earned income for the EITC calculation.
+
+Example Calculation:
+John has:
+- W-2 wages: $25,000
+- Self-employment income: $8,000
+- Interest income: $500
+- Unemployment: $2,000
+
+His earned income = $25,000 + $8,000 = $33,000
+His AGI = $25,000 + $8,000 + $500 + $2,000 = $35,500
+His investment income = $500 (under the limit)
+
+For EITC purposes, he uses $33,000 (the lesser amount).
+
+Source: IRS Publication 596, Instructions for Schedule EIC

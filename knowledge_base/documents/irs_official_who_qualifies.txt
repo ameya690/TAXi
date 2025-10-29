@@ -1,0 +1,170 @@
+IRS Official Guide: Who Qualifies for the Earned Income Tax Credit (EITC)
+Source: IRS.gov Official Website
+
+BASIC QUALIFYING RULES
+
+To qualify for the EITC, you must meet ALL of these requirements:
+
+1. Have EARNED INCOME
+Earned income includes wages, salaries, tips, and net self-employment income. See IRS guidance on earned income for complete details.
+
+2. Have INVESTMENT INCOME below the limit
+Your investment income must be within the annual limit (check current year limit). Investment income includes interest, dividends, and capital gains.
+
+3. Have a VALID SOCIAL SECURITY NUMBER by the due date of your return (including extensions)
+The SSN must be valid for employment purposes and issued on or before the tax return due date.
+
+4. Be a U.S. CITIZEN or RESIDENT ALIEN all year
+You must maintain this status for the entire tax year.
+
+5. NOT file Form 2555, Foreign Earned Income
+If you claim the foreign earned income exclusion, you cannot claim EITC.
+
+6. Meet certain rules if you are separated from your spouse and not filing a joint tax return
+Special rules apply for separated spouses.
+
+SPECIAL QUALIFYING RULES
+
+The EITC has special qualifying rules for:
+- Military members (including combat pay elections)
+- Clergy members (including housing allowances)
+- Taxpayers and their relatives with disabilities
+
+If you're unsure if you qualify for the EITC, use the IRS EITC Assistant tool available on IRS.gov.
+
+VALID SOCIAL SECURITY NUMBER REQUIREMENTS
+
+To qualify for the EITC, you, your spouse if filing jointly, and any child claimed must have a valid Social Security number (SSN) issued on or before the due date of the tax return (including extensions).
+
+AN SSN IS NOT VALID FOR THE EITC IF:
+- It was issued after the due date of your return (including extensions), OR
+- It was issued solely to apply for or receive a federally funded benefit (such as Medicaid) and does not authorize you to work
+
+IMPORTANT NOTE ABOUT EMPLOYMENT AUTHORIZATION:
+If you, your spouse, or your child has a Social Security card with "Not valid for employment" printed on it and the immigration status has changed to a U.S. citizen or permanent resident, you must ask the Social Security Administration for a Social Security card without the legend.
+
+Individual Taxpayer Identification Numbers (ITINs) do NOT qualify for EITC. You must have a valid SSN.
+
+U.S. CITIZEN OR RESIDENT ALIEN REQUIREMENT
+
+To claim the EITC, you must be a U.S. citizen or resident alien for the entire year.
+
+EXCEPTION FOR NONRESIDENT ALIENS:
+If you were a nonresident alien for any part of the tax year, you can only claim the EITC if:
+- Your filing status is married filing jointly, AND
+- Your spouse is a U.S. citizen or resident alien, AND
+- You choose to be treated as a U.S. resident
+
+FILING STATUS REQUIREMENTS
+
+Eligible filing statuses to claim EITC:
+✓ Married filing jointly
+✓ Head of household
+✓ Qualifying surviving spouse
+✓ Single
+✓ Married filing separately (with special rules)
+
+MARRIED FILING SEPARATELY:
+Generally, you cannot claim EITC if you file married filing separately. However, there are limited exceptions for taxpayers who are separated from their spouses.
+
+HEAD OF HOUSEHOLD:
+To file as head of household, you must:
+- Be unmarried or considered unmarried on the last day of the year
+- Pay more than half the cost of keeping up a home for the year
+- Have a qualifying person live with you for more than half the year
+
+QUALIFYING SURVIVING SPOUSE:
+You may qualify as a qualifying surviving spouse if:
+- Your spouse died less than 2 years before the tax year you're claiming the EITC
+- You did not remarry before the end of that year
+- You paid more than half the cost of keeping up a home for the year
+- You have a child or stepchild you can claim as a relative (this does not include a foster child) and who lived with you the entire year
+
+For more information on filing status, see IRS Publication 501, Dependents, Standard Deductions, and Filing Information, or use the Interactive Tax Assistant on IRS.gov to determine your filing status.
+
+CLAIMING THE EITC WITHOUT A QUALIFYING CHILD
+
+You can claim the EITC without a qualifying child if you meet the EITC basic qualifying rules AND you:
+
+1. Lived in the UNITED STATES for more than half the tax year
+   The United States includes:
+   - The 50 states
+   - The District of Columbia
+   - U.S. military bases
+   
+   The United States does NOT include:
+   - U.S. territories such as Guam, the Virgin Islands or Puerto Rico
+
+2. CANNOT be claimed as a qualifying child of another taxpayer or dependent of another person
+   - If someone else can claim you as a qualifying child, you cannot claim EITC
+   - If someone else claims you as a dependent, you cannot claim EITC
+
+3. Meet the AGE REQUIREMENTS
+   - You must be at least age 25 but under age 65 at the end of the year
+   - If married and filing a joint return, at least one spouse must meet the age rule
+   - Age is determined as of December 31 of the tax year
+
+SUMMARY OF AGE RULES FOR WORKERS WITHOUT QUALIFYING CHILDREN:
+Minimum Age: 25 (on December 31)
+Maximum Age: 64 (on December 31)
+If married filing jointly: At least ONE spouse must meet the age requirement
+
+OTHER TAX CREDITS YOU MAY QUALIFY FOR
+
+If you qualify for the EITC, you may also qualify for these other tax credits:
+
+1. CHILD TAX CREDIT and CREDIT FOR OTHER DEPENDENTS
+   - Provides credit for qualifying children and other dependents
+   - Different rules than EITC
+
+2. CHILD AND DEPENDENT CARE CREDIT
+   - For expenses paid for care of qualifying persons
+   - Enables you to work or look for work
+
+3. EDUCATION CREDITS
+   - American Opportunity Tax Credit
+   - Lifetime Learning Credit
+   - For qualified education expenses
+
+Each credit has its own eligibility rules. Use IRS tools and publications to determine if you qualify for multiple credits.
+
+KEY REMINDERS
+
+✓ You must file a tax return to claim the EITC, even if you don't owe any tax
+✓ The EITC is refundable - you can get money back even if you owe no tax
+✓ Use IRS Free File if your income qualifies
+✓ VITA (Volunteer Income Tax Assistance) provides free tax help
+✓ The IRS EITC Assistant can help you determine eligibility
+✓ Keep good records in case of an audit
+✓ Refunds may be delayed - by law, the IRS cannot issue EITC refunds before mid-February
+
+COMMON DISQUALIFICATIONS
+
+You CANNOT claim EITC if:
+✗ You don't have earned income
+✗ Your investment income exceeds the annual limit
+✗ You file Form 2555 (Foreign Earned Income)
+✗ You don't have a valid SSN for everyone on the return
+✗ You file as Married Filing Separately (except in limited circumstances)
+✗ You are a nonresident alien (unless meeting the exception)
+✗ You don't meet the age requirements (if claiming without a child)
+✗ Someone else can claim you as a dependent (if claiming without a child)
+
+WHERE TO GET HELP
+
+IRS Resources:
+- EITC Assistant tool on IRS.gov
+- Publication 596: Earned Income Credit (EIC)
+- Publication 501: Dependents, Standard Deduction, and Filing Information
+- Interactive Tax Assistant for filing status
+- IRS Free File (for qualifying taxpayers)
+- VITA locations (Volunteer Income Tax Assistance)
+- IRS helpline: 1-800-829-1040
+
+Always use official IRS resources or consult with a qualified tax professional for your specific situation.
+
+Source: IRS.gov official website
+Publication: Who Qualifies for the Earned Income Tax Credit (EITC)
+Last Updated: 2024
+
+Disclaimer: This information is for general guidance only. Tax laws are complex and change frequently. Consult IRS Publication 596 or a qualified tax professional for your specific situation. Informational only, not tax advice.

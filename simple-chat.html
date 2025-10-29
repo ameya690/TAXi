@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TAX Intelligence Bot Test Chat</title>
+    <style>
+        body {
+            font-family: system-ui, -apple-system, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background: #f5f5f5;
+        }
+        .container {
+            background: white;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #2563eb;
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        .chat-container {
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            padding: 20px;
+            margin: 20px 0;
+            background: #fafafa;
+        }
+        .input-group {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 20px;
+        }
+        input[type="text"] {
+            flex: 1;
+            padding: 12px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            font-size: 16px;
+        }
+        button {
+            padding: 12px 24px;
+            background: #2563eb;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 16px;
+        }
+        button:hover {
+            background: #1d4ed8;
+        }
+        button:disabled {
+            background: #ccc;
+            cursor: not-allowed;
+        }
+        .message {
+            margin: 15px 0;
+            padding: 15px;
+            border-radius: 8px;
+            line-height: 1.5;
+        }
+        .user-message {
+            background: #e3f2fd;
+            border-left: 4px solid #2563eb;
+        }
+        .taxi-message {
+            background: #f3e5f5;
+            border-left: 4px solid #7b1fa2;
+        }
+        .citations {
+            margin-top: 10px;
+            font-size: 14px;
+            color: #666;
+            font-style: italic;
+        }
+        .loading {
+            text-align: center;
+            color: #666;
+            font-style: italic;
+        }
+        .disclaimer {
+            background: #fff3cd;
+            border: 1px solid #ffeaa7;
+            padding: 15px;
+            border-radius: 5px;
+            margin-top: 20px;
+            font-size: 14px;
+            color: #856404;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🤖 TAX Intelligence Bot – EITC Assistant</h1>
+
+        <div class="chat-container" id="chatContainer">
+            <div class="message">
+                <strong>Welcome to TAX Intelligence Bot!</strong><br>
+                I'm here to help you understand the Earned Income Tax Credit (EITC).
+                Ask me any questions about EITC eligibility, requirements, or how it works.
+            </div>
+        </div>
+
+        <div class="input-group">
+            <input type="text" id="questionInput" placeholder="Ask about EITC..." onkeypress="handleKeyPress(event)">
+            <button onclick="askQuestion()" id="askButton">Ask</button>
+        </div>
+
+        <div class="disclaimer">
+            <strong>Disclaimer:</strong> This is informational only and not tax advice.
+            Please consult IRS guidelines or a qualified tax professional for your specific situation.
+        </div>
+    </div>
+
+    <script>
+        let isLoading = false;
+
+        async function askQuestion() {
+            const questionInput = document.getElementById('questionInput');
+            const askButton = document.getElementById('askButton');
+            const chatContainer = document.getElementById('chatContainer');
+            const question = questionInput.value.trim();
+
+            if (!question || isLoading) return;
+
+            // Add user message
+            const userMessage = document.createElement('div');
+            userMessage.className = 'message user-message';
+            userMessage.innerHTML = `<strong>You:</strong> ${escapeHtml(question)}`;
+            chatContainer.appendChild(userMessage);
+
+            // Clear input and show loading
+            questionInput.value = '';
+            isLoading = true;
+            askButton.disabled = true;
+            askButton.textContent = 'Asking...';
+
+            try {
+                // Make API call
+                const response = await fetch('http://localhost:5000/api/ask', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify({
+                        question: question,
+                        lang: 'en'
+                    })
+                });
+
+                if (!response.ok) {
+                    throw new Error(`HTTP ${response.status}`);
+                }
+
+                const data = await response.json();
+
+                // Add TAX Intelligence Bot response
+                const taxiMessage = document.createElement('div');
+                taxiMessage.className = 'message taxi-message';
+
+                const answerText = data.answer || 'No answer received';
+                taxiMessage.innerHTML = `<strong>TAX Intelligence Bot:</strong> ${escapeHtml(answerText)}`;
+
+                // Add citations if available
+                if (data.citations && data.citations.length > 0) {
+                    const citationsDiv = document.createElement('div');
+                    citationsDiv.className = 'citations';
+                    citationsDiv.innerHTML = `<strong>Citations:</strong> ${escapeHtml(data.citations.join(', '))}`;
+                    taxiMessage.appendChild(citationsDiv);
+                }
+
+                chatContainer.appendChild(taxiMessage);
+
+                // Scroll to bottom
+                chatContainer.scrollTop = chatContainer.scrollHeight;
+
+            } catch (error) {
+                // Add error message
+                const errorMessage = document.createElement('div');
+                errorMessage.className = 'message taxi-message';
+                errorMessage.innerHTML = `<strong>TAX Intelligence Bot:</strong> Sorry, I encountered an error: ${escapeHtml(error.message)}`;
+                chatContainer.appendChild(errorMessage);
+            } finally {
+                // Reset loading state
+                isLoading = false;
+                askButton.disabled = false;
+                askButton.textContent = 'Ask';
+            }
+        }
+
+        function handleKeyPress(event) {
+            if (event.key === 'Enter') {
+                askQuestion();
+            }
+        }
+
+        function escapeHtml(text) {
+            const div = document.createElement('div');
+            div.textContent = text;
+            return div.innerHTML;
+        }
+
+        // Focus input on page load
+        document.addEventListener('DOMContentLoaded', function() {
+            document.getElementById('questionInput').focus();
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,39 @@
+Earned Income Tax Credit (EITC) Overview
+
+The Earned Income Tax Credit (EITC) is a benefit for working people with low to moderate income. To qualify, you must meet certain requirements and file a tax return, even if you do not owe any tax or are not required to file.
+
+What is the EITC?
+The EITC is a refundable tax credit that can reduce the amount of tax you owe and may result in a refund even if you don't owe any tax. The credit amount depends on your income, filing status, and number of qualifying children.
+
+Basic Requirements:
+- You must have earned income from employment or self-employment
+- Your investment income must be $11,000 or less (for tax year 2024)
+- You must have a valid Social Security number
+- You must be a U.S. citizen or resident alien for the entire tax year
+- You cannot file Form 2555 (Foreign Earned Income)
+- Your filing status cannot be "married filing separately"
+
+Income Limits:
+For tax year 2024, the income limits are:
+- No qualifying children: $18,591
+- One qualifying child: $49,084
+- Two qualifying children: $55,768
+- Three or more qualifying children: $59,899
+
+Qualifying Children:
+A child must meet all of these tests to be a qualifying child:
+- Relationship: Your son, daughter, stepchild, foster child, brother, sister, stepbrother, stepsister, or a descendant of any of them
+- Age: Under age 19 at the end of the year (or under age 24 if a full-time student), or any age if permanently and totally disabled
+- Residency: Must live with you in the United States for more than half the year
+- Joint Return: Cannot file a joint return with their spouse (except to claim a refund)
+
+How to Claim the EITC:
+1. File your federal tax return
+2. Complete Schedule EIC (Earned Income Credit) if you have a qualifying child
+3. File Form 8867 if required by your tax professional
+
+The IRS recommends using the EITC Assistant tool on IRS.gov to check your eligibility and estimate your credit amount.
+
+Remember: This information is for general guidance only. Tax laws are complex and change frequently. Consult IRS Publication 596 or a qualified tax professional for your specific situation.
+
+Source: IRS Publication 596 (2024)

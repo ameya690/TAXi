@@ -1,0 +1,326 @@
+State EITC Programs - Supplemental Credits by State
+
+Overview of State Earned Income Tax Credits
+
+Many states and localities offer their own EITC that supplements the federal credit. These state credits are usually calculated as a percentage of your federal EITC.
+
+States with EITC Programs (2024)
+
+REFUNDABLE STATE EITCs (you can get money back even if you owe no state tax):
+
+California (CalEITC):
+- Percentage: Separate calculation, not based on federal EITC
+- Must file state return to claim
+- California Young Child Tax Credit also available
+- Additional foster youth credit available
+- CalEIT
+
+C Assistant available online
+
+Colorado:
+- Percentage: 25% of federal EITC (increasing in future years)
+- Refundable
+- Must file state return
+
+Connecticut:
+- Percentage: 30.5% of federal EITC (higher for certain filers)
+- Refundable
+- No state income requirement
+
+Delaware:
+- Percentage: 4.5% of federal EITC
+- Refundable for certain income levels
+- Non-refundable for higher incomes
+
+District of Columbia:
+- Percentage: 70% of federal EITC
+- Fully refundable
+- One of the most generous state credits
+
+Illinois:
+- Percentage: 20% of federal EITC
+- Fully refundable
+- Must file state return
+
+Indiana:
+- Percentage: 9% of federal EITC
+- Refundable
+- Must have qualifying children
+
+Iowa:
+- Percentage: 15% of federal EITC
+- Refundable
+- Adjusted annually for inflation
+
+Kansas:
+- Percentage: 17% of federal EITC
+- Refundable for certain filers
+- Different rules based on income
+
+Louisiana:
+- Percentage: 5% of federal EITC
+- Refundable
+- Must file state return
+
+Maine:
+- Percentage: 15% of federal EITC (without qualifying children)
+- Percentage: 25% of federal EITC (with qualifying children)
+- Fully refundable
+
+Maryland:
+- Percentage: 50% of federal EITC (for most filers)
+- Percentage: 100% of federal EITC (for certain low-income filers)
+- Non-custodial parent credit also available
+- Refundable
+
+Massachusetts:
+- Percentage: 40% of federal EITC
+- Fully refundable
+- Available even if no federal income tax liability
+
+Michigan:
+- Percentage: 6% of federal EITC
+- Refundable
+- Must have qualifying children
+
+Minnesota:
+- Separate calculation, not percentage-based
+- Working family credit
+- Fully refundable
+- More generous than many states
+
+Montana:
+- Percentage: 3% of federal EITC
+- Refundable
+- Must file state return
+
+Nebraska:
+- Percentage: 10% of federal EITC
+- Refundable
+- Available for all qualifying households
+
+New Jersey:
+- Percentage: 40% of federal EITC
+- Fully refundable
+- Additional credits for certain workers
+
+New Mexico:
+- Percentage: 17% of federal EITC
+- Fully refundable
+- Must file state return
+
+New York:
+- Percentage: 30% of federal EITC
+- NYC residents get additional 5%
+- Fully refundable
+- Noncustodial parent EITC also available
+
+Ohio:
+- Percentage: 30% of federal EITC
+- Refundable
+- Must have qualifying children
+
+Oklahoma:
+- Percentage: 5% of federal EITC
+- Refundable
+- Must file state return
+
+Oregon:
+- Percentage: 9% of federal EITC
+- Fully refundable
+- Earned Income Credit available
+
+Rhode Island:
+- Percentage: 15% of federal EITC
+- Refundable
+- Must file state return
+
+South Carolina:
+- Percentage: 125% of federal EITC liability reduction
+- Refundable portion available
+- Complex calculation
+
+Vermont:
+- Percentage: 36% of federal EITC
+- Fully refundable
+- Must file state return
+
+Virginia:
+- Percentage: 15% of federal EITC
+- Refundable
+- Must file state return and qualify federally
+
+Washington:
+- Working Families Tax Credit
+- Up to $1,200 per year
+- Separate application required
+- Not directly tied to federal EITC percentage
+
+Wisconsin:
+- Percentage: Varies by family size and filing status
+- 4% (no children) to 11% (three+ children)
+- Fully refundable
+
+NON-REFUNDABLE STATE EITCs (can only reduce state tax owed, no refund):
+
+States with non-refundable credits generally allow you to reduce your state tax liability, but you won't receive a refund if the credit exceeds your tax owed.
+
+Local/County EITCs:
+
+Some localities have their own EITC programs:
+- Montgomery County, Maryland
+- New York City (in addition to state)
+- San Francisco, California (in addition to state)
+- Check your local government for programs
+
+How to Claim State EITC
+
+STEP 1: File Your Federal Return First
+- Calculate your federal EITC
+- Keep a copy of your federal return
+
+STEP 2: Check Your State's Requirements
+- Some states require a separate application
+- Others automatically calculate it on state return
+- Washington requires separate application
+
+STEP 3: File State Tax Return
+- Even if you don't owe state tax, file to claim EITC
+- Reference your federal EITC amount
+- Provide any additional documentation required
+
+STEP 4: Keep Records
+- State audits can happen independently of federal
+- Keep same documentation as federal EITC
+
+Special State Provisions
+
+California CalEITC:
+- Has its own income limits (lower than federal)
+- Different calculation methodology
+- Additional credits available:
+  - Young Child Tax Credit (children under 6)
+  - Foster Youth Tax Credit
+- Must have earned income of at least $1
+
+Minnesota Working Family Credit:
+- Uses its own formula
+- Not a simple percentage of federal EITC
+- Generally more generous than percentage-based credits
+- Separate income limits
+
+Washington Working Families Tax Credit:
+- Unique application process
+- Not connected to state tax return (Washington has no income tax)
+- Must apply separately through Department of Revenue
+- Claim online at WorkingFamiliesCredit.wa.gov
+
+State EITC Income Limits
+
+Most state EITCs use the same income limits as federal EITC:
+- If you qualify for federal EITC, you likely qualify for state EITC
+- Some states (like California) have separate, lower limits
+- Check your specific state's requirements
+
+State vs. Federal EITC Example
+
+Example: Single parent with 2 children in Maryland
+
+Federal EITC: $5,000 (example amount)
+Maryland EITC: $5,000 × 50% = $2,500
+
+Total EITC benefit: $7,500
+
+The state credit provides additional money on top of the federal credit!
+
+Benefits of State EITC
+
+1. Additional money to qualifying families
+2. Helps offset state and local taxes
+3. Boosts economic impact of federal EITC
+4. Some states have more generous age/income rules
+5. Puts more money into local economies
+
+Common State EITC Mistakes
+
+1. Not filing state return because you don't owe tax
+   - File anyway to get refundable credit!
+
+2. Forgetting to claim state EITC on state return
+   - Many returns have a line for it - don't skip it
+
+3. Not meeting state-specific requirements
+   - Some states have residency requirements
+   - Some have different income calculations
+
+4. Missing separate applications
+   - Washington requires separate application
+   - Some states have additional forms
+
+5. Not checking for local credits
+   - Your city or county may have additional credits
+   - These are often overlooked
+
+Resources for State EITC
+
+Check These Resources:
+1. Your state's Department of Revenue website
+2. Tax-Brackets.org for state EITC information
+3. IRS State Links page
+4. National Conference of State Legislatures (NCSL) EITC page
+5. Center on Budget and Policy Priorities state EITC data
+
+Free State Tax Preparation:
+- Most VITA sites prepare state returns
+- IRS Free File includes many state returns
+- State-specific free file programs
+
+Changes to Watch For
+
+State EITC programs change:
+- Percentages may increase or decrease
+- New states may add programs
+- Refundability may change
+- Always check current year rules
+
+Why States Offer EITC
+
+Policy Goals:
+- Reduce poverty
+- Support working families
+- Offset regressive state taxes
+- Economic stimulus
+- Child wellbeing
+- Work incentive
+
+Economic Impact:
+- Every dollar of EITC generates local economic activity
+- Families typically spend credits on necessities
+- Benefits local businesses
+- Reduces reliance on other assistance programs
+
+Future of State EITC
+
+Trends:
+- More states considering EITC programs
+- Existing programs often expanding
+- Increased percentages in many states
+- More attention to childless workers
+- Potential federal incentives for state programs
+
+Final State EITC Tips
+
+1. Always file your state return, even if you don't owe tax
+2. Claim your state EITC even if small
+3. Check for local/county credits too
+4. Some states allow prior-year claims
+5. State credits are additional money - not a replacement
+6. If you move mid-year, check which state's credit you can claim
+7. Part-year residents may have prorated credits
+8. Keep state and federal documentation together
+9. State refunds typically arrive separately from federal
+10. Some states have faster refund processing than IRS
+
+Remember: State EITC is FREE MONEY you've earned. Don't leave it unclaimed!
+
+Source: Various state revenue department websites, National Conference of State Legislatures, Tax Policy Center, Center on Budget and Policy Priorities

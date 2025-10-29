@@ -1,0 +1,179 @@
+Common EITC Mistakes and How to Avoid Them
+
+Top EITC Errors and Prevention Strategies
+
+MISTAKE #1: Filing Status Errors
+Error: Filing as "Married Filing Separately"
+- If you're married, you generally cannot claim EITC if you file separately
+Exception: You may be able to claim if you meet specific requirements for being "considered unmarried"
+
+How to Avoid:
+- If you're married, file jointly to claim EITC
+- If separated, check if you meet the requirements to be "considered unmarried"
+- Consult IRS Pub 596 Table 2 for your specific situation
+
+MISTAKE #2: Social Security Number Issues
+Common Errors:
+- Using an ITIN instead of SSN
+- SSN not valid for employment
+- Expired or missing SSN for qualifying children
+- Wrong SSN on tax return
+
+How to Avoid:
+- Ensure all SSNs are valid and issued before the tax return due date
+- SSNs must be issued by the Social Security Administration (not ITINs)
+- Double-check all numbers before filing
+- Apply for SSNs well before tax season
+
+MISTAKE #3: Qualifying Child Errors
+Common Errors:
+- Child doesn't meet all four tests (Relationship, Age, Residency, Joint Return)
+- Child didn't live with you for more than 6 months
+- Child is over age limits
+- Claiming the same child as someone else
+
+How to Avoid:
+- Use the IRS EITC Assistant tool online
+- Keep detailed records of where your child lived
+- Understand the age limits: under 19, or under 24 if full-time student
+- Communicate with other family members about who will claim each child
+- Use Form 8332 for divorced/separated parents
+
+MISTAKE #4: Income Calculation Errors
+Common Errors:
+- Including non-earned income as earned income
+- Exceeding the investment income limit ($11,000 for 2024)
+- Not reporting all income sources
+- Incorrectly calculating self-employment income
+
+How to Avoid:
+- Only count wages, salaries, tips, and net self-employment income
+- Track all investment income separately
+- Report ALL income, even if you don't receive a Form 1099 or W-2
+- Use Schedule C to properly calculate self-employment income
+- Keep excellent business records if self-employed
+
+MISTAKE #5: Ignoring Income Limits
+Error: Earning too much to qualify but still claiming EITC
+2024 Income Limits (Married Filing Jointly):
+- No qualifying children: $24,210
+- 1 qualifying child: $55,768
+- 2 qualifying children: $62,449
+- 3+ qualifying children: $66,819
+
+How to Avoid:
+- Check current year income limits before claiming
+- Use IRS EITC Assistant to verify eligibility
+- Income limits change annually - don't assume you qualify just because you did last year
+
+MISTAKE #6: Not Claiming EITC When Eligible
+Why People Miss Out:
+- Don't realize they qualify
+- Think they don't need to file a return
+- Fear of IRS audit
+- Complexity of tax rules
+
+How to Fix:
+- File a return even if you're not required to
+- You can claim EITC for up to 3 prior years by filing amended returns
+- Use free tax preparation services (VITA, TCE)
+- The IRS wants you to claim credits you're entitled to!
+
+MISTAKE #7: Incorrect Filing Status Claims
+Error: Claiming Head of Household incorrectly
+To qualify as Head of Household:
+- You must be unmarried or considered unmarried
+- You paid more than half the cost of keeping up a home
+- A qualifying person lived with you for more than half the year
+
+How to Avoid:
+- Understand the specific tests for Head of Household
+- Keep records of household expenses
+- Don't assume you qualify just because you have children
+
+MISTAKE #8: Missing Schedule EIC
+Error: Claiming EITC with qualifying children but not attaching Schedule EIC
+- If you have qualifying children, you MUST complete and attach Schedule EIC
+- Without it, the IRS will reject your EITC claim
+
+How to Avoid:
+- Always complete Schedule EIC if you have qualifying children
+- Include all required information for each child
+- Tax software usually prompts for this automatically
+
+MISTAKE #9: Not Responding to IRS Notices
+Error: Ignoring IRS letters about EITC verification
+- The IRS may ask you to prove eligibility
+- Not responding = denied claim
+
+How to Avoid:
+- Always respond to IRS notices within the deadline
+- Keep documentation ready: birth certificates, school records, medical records
+- Use certified mail when sending documents to the IRS
+- Keep copies of everything you send
+
+MISTAKE #10: Fraudulent Claims
+Serious Errors:
+- Making up qualifying children
+- Falsifying income amounts
+- Using fake documents
+- Claiming children who don't exist
+
+Consequences:
+- Banned from claiming EITC for 2-10 years
+- Required to pay back ALL incorrectly claimed credits
+- Possible criminal prosecution
+- Penalties and interest
+
+How to Avoid:
+- Only claim what you're legitimately entitled to
+- Be honest on your tax return
+- Don't let anyone convince you to lie on your return
+- Choose your tax preparer carefully - you're responsible for what's on your return
+
+MISTAKE #11: Not Keeping Records
+Error: Unable to prove eligibility if audited
+Required Records:
+- Birth certificates or other proof of relationship
+- School records showing dates and address
+- Medical records showing address
+- Childcare provider records
+- Any official document showing child's address and your address match
+
+How to Avoid:
+- Keep records for at least 3 years after filing
+- Organize documents by tax year
+- Make digital copies as backup
+- Keep records showing where children lived throughout the year
+
+MISTAKE #12: Relying on Disreputable Tax Preparers
+Warning Signs of Bad Preparers:
+- Promise large refunds before looking at your records
+- Base fees on percentage of refund
+- Don't sign returns they prepare
+- Don't provide PTIN (Preparer Tax Identification Number)
+- Suggest claiming children who don't qualify
+
+How to Avoid:
+- Use IRS-certified preparers
+- Check preparer credentials
+- Use free services if eligible (VITA, TCE)
+- Understand your own return before signing
+- Report suspected fraud to the IRS
+
+TIPS FOR SUCCESS
+
+1. Use the IRS EITC Assistant tool before filing
+2. Keep organized records throughout the year
+3. File electronically for faster processing
+4. Consider direct deposit for faster refunds
+5. Use reputable tax preparation services
+6. Review your return carefully before filing
+7. Respond promptly to any IRS correspondence
+8. Claim prior year credits if you missed them (within 3 years)
+9. Stay informed about annual changes to EITC rules
+10. When in doubt, consult a qualified tax professional
+
+Remember: The EITC is a valuable credit worth claiming correctly. Taking time to understand the rules and avoid common mistakes ensures you get the credit you deserve without problems later.
+
+Source: IRS Publication 596, IRS EITC Central, Treasury Inspector General for Tax Administration Reports

@@ -1,0 +1,158 @@
+IRS Official Qualifying Child Rules for EITC
+Source: IRS.gov Official Website
+
+A child is a qualifying child for EITC if they meet ALL 4 of these tests:
+
+TEST 1: AGE REQUIREMENT
+
+To be a qualifying child for the EITC, your child must be:
+
+Option A: Any age and permanently and totally disabled at any time during the year.
+- The child can be of any age if they are permanently and totally disabled
+- For more information, see IRS guidelines on Disability and Earned Income Tax Credit
+
+Option B: Under age 19 at the end of the year and younger than you (or your spouse, if you file a joint return)
+- Must be younger than you or your spouse
+- Age is determined as of December 31 of the tax year
+
+Option C: Under age 24 at the end of the year and a full-time student for at least 5 months of the year and younger than you (or your spouse, if you file a joint return)
+- Must be a full-time student
+- Must attend for at least 5 months during the year
+- Must be younger than you or your spouse
+
+FULL-TIME STUDENT DEFINITION:
+To be considered full-time, the student must have enrolled for the number of hours or courses their school considers to be full-time attendance. Students who work on "co-op" jobs in private industry as a part of a school's official program are also considered full-time students.
+
+SCHOOL DEFINITION:
+For the EITC, a school IS:
+- Elementary school
+- Junior or senior high school
+- College or university
+- Technical, trade or mechanical school
+
+A school is NOT:
+- On-the-job training course
+- Correspondence school
+- School offering courses only through the Internet
+
+TEST 2: RELATIONSHIP REQUIREMENT
+
+To be a qualifying child for the EITC, your child must be your:
+- Son, daughter, stepchild, adopted child or foster child
+- Brother, sister, half-brother, half-sister, stepsister or stepbrother
+- Grandchild, niece or nephew
+
+ADOPTED CHILD DEFINITION:
+An adopted child is a child who is lawfully placed with you for legal adoption.
+
+FOSTER CHILD DEFINITION:
+For the EITC, you can only claim a foster child that is placed with you by:
+- A State or local government agency
+- An Indian tribal government
+- A tax-exempt organization licensed by a state or an Indian tribal government
+- A court order
+
+TEST 3: RESIDENCY REQUIREMENT
+
+To be a qualifying child for the EITC, your child must live in the same home as you in the United States for more than half of the tax year.
+
+The United States includes:
+- The 50 states
+- The District of Columbia
+- U.S. military bases
+
+The United States does NOT include:
+- United States possessions such as Guam, the Virgin Islands or Puerto Rico
+
+BIRTH OR DEATH OF A CHILD:
+If the child was born or died during year for which you claim the EITC and they lived with you for more than half of their life during that year, we consider that more than half of the year for the EITC.
+
+TEMPORARY TIME AWAY FROM HOME:
+If your child was temporarily away from home, we count that as time lived with you. 
+
+Temporary absences include:
+- Illness or hospitalization
+- School attendance, vacation, business or military service
+- Detention in a juvenile facility
+- Kidnapping
+
+SPECIAL RESIDENCY SITUATIONS:
+- Homeless shelters count as living with you
+- Military personnel stationed outside the United States still meet the residency requirement
+- Extended active duty situations may have special rules
+- Kidnapped children may meet special rules
+
+TEST 4: JOINT RETURN REQUIREMENT
+
+To be a qualifying child for the EITC, your child must not have filed a joint return with another person (for example, their husband or wife) to claim any credits such as the EITC.
+
+EXCEPTION:
+Your child CAN file a joint tax return only to get a tax refund on tax withheld from their paycheck. If they file only to claim a refund and neither spouse would owe tax if filing separately, this exception applies.
+
+TIEBREAKER RULES - ONLY ONE PERSON MAY CLAIM A QUALIFYING CHILD
+
+A child may meet all the requirements and qualify more than one person for the following child-related benefits:
+- Dependency exemption
+- EITC
+- Child tax credit/credit for other dependents/additional child tax credit
+- Head of household filing status, or
+- Dependent care credit/exclusion for dependent care benefits
+
+However, even if two or more persons have the same qualifying child, only one person can claim the child as a qualifying child for all these benefits.
+
+TIEBREAKER RULES WHEN TWO OR MORE PERSONS CAN CLAIM THE SAME CHILD:
+
+Rule 1: If only one of the persons is the child's parent, the child is treated as the qualifying child of the parent.
+
+Rule 2: If the parents file a joint return together and can claim the child as a qualifying child, the child is treated as the qualifying child of the parents.
+
+Rule 3: If the parents don't file a joint return together but both parents claim the child as a qualifying child, the IRS will treat the child as the qualifying child of the parent with whom the child lived for the longer period in the tax year.
+
+Rule 4: If the child lived with each parent for the same amount of time, the IRS will treat the child as the qualifying child of the parent who had the higher adjusted gross income (AGI) for the tax year.
+
+Rule 5: If no parent can claim the child as a qualifying child, the child is treated as the qualifying child of the person who had the highest AGI for the tax year.
+
+Rule 6: If a parent can claim the child as a qualifying child but no parent does so claim the child, the child is treated as the qualifying child of the person who had the highest AGI for the tax year, but only if that person's AGI is higher than the highest AGI of any parent of the child who can claim the child.
+
+IMPORTANT NOTE ABOUT TIEBREAKER RULES:
+Special rules apply for parents who are divorced, separated, or who are living apart. If you can't claim the qualifying child because of the tiebreaker rules, you may be eligible to claim the EITC with no qualifying child.
+
+PROOF OF QUALIFICATION
+
+If you are audited after claiming the Earned Income Credit, you will need to provide documents proving that your child qualifies.
+
+Documents you may need to provide:
+- Birth certificates or adoption records (for relationship test)
+- School records showing name, address, and dates (for age and residency tests)
+- Medical records showing name and address (for residency test)
+- Childcare provider records (for residency test)
+- Any official documents showing the child lived with you
+
+Use the IRS Form 886-H-EIC Toolkit to find the specific documents you need to send to prove you can claim the EITC with a qualifying child.
+
+OTHER CREDITS YOU MAY QUALIFY FOR
+
+If you qualify for the EITC, you may also qualify for other tax credits:
+- Child tax credit and the credit for other dependents
+- Child and Dependent Care Credit
+- Education Credits (American Opportunity Tax Credit and Lifetime Learning Credit)
+
+These credits have their own rules and requirements. Meeting the EITC qualifying child tests doesn't automatically qualify you for these other credits, but it's a good indicator you should check them out.
+
+SUMMARY CHECKLIST FOR QUALIFYING CHILD
+
+Your child must meet ALL FOUR tests:
+☐ AGE: Under 19 (or under 24 if student, or any age if disabled) and younger than you
+☐ RELATIONSHIP: Your son, daughter, sibling, or descendant of these
+☐ RESIDENCY: Lived with you in the U.S. for more than half the year
+☐ JOINT RETURN: Did not file a joint return to claim credits
+
+If all four boxes can be checked, the child qualifies for EITC purposes.
+
+For complete official information, see:
+- IRS Publication 596, Earned Income Credit (EIC)
+- IRS Publication 501, Standard Deduction, and Filing Information
+- IRS.gov EITC Assistant tool
+
+Source: IRS.gov official website, IRS Publication 596
+Last Updated: 2024

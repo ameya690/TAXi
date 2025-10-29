@@ -1,0 +1,229 @@
+EITC Special Situations and Circumstances
+
+Military Personnel and EITC
+
+Nontaxable Combat Pay:
+- Military personnel can elect to include nontaxable combat pay as earned income
+- This election can increase your EITC
+- Combat pay is shown in box 12 of Form W-2 with code Q
+- You choose whether to include it - calculate both ways to see which is better
+
+Benefits of Including Combat Pay:
+- May increase your EITC
+- May help you meet the earned income requirements
+- Can make the difference between qualifying or not qualifying
+
+How to Report:
+- Enter the amount from box 12 (code Q) on the EITC Worksheet
+- Don't include it elsewhere on your tax return (it's nontaxable)
+- Make the election on your return
+
+Military Assignments Overseas:
+- Time stationed outside the U.S. still counts as living in the U.S. for EITC purposes
+- Your children can meet the residency test even if stationed abroad
+- Keep records of your assignment orders
+
+Disability and EITC
+
+Receiving Disability Payments:
+Long-term disability benefits received before minimum retirement age COUNT as earned income for EITC if:
+- You haven't reached minimum retirement age (defined by your employer's plan)
+- The payments are from an employer-paid insurance policy
+
+Disability benefits that DON'T count as earned income:
+- Social Security Disability Insurance (SSDI)
+- Supplemental Security Income (SSI)
+- VA disability benefits
+- Workers' compensation
+
+Disabled Children:
+- A permanently and totally disabled child of ANY age can be your qualifying child
+- "Permanently and totally disabled" means:
+  - Unable to engage in any substantial gainful activity
+  - Condition expected to last continuously for at least 12 months or result in death
+- You must be able to provide a doctor's certification if requested
+
+Self-Employment and EITC
+
+Calculating Self-Employment Earned Income:
+1. Start with net profit from Schedule C or Schedule F
+2. Subtract one-half of self-employment tax
+3. Result is your earned income from self-employment
+
+Special Self-Employment Situations:
+
+Ministers and Religious Workers:
+- Income reported on Form W-2 (box 1) counts as earned income
+- Housing allowance is NOT earned income for EITC
+- Self-employment earnings from ministerial services count
+
+Statutory Employees:
+- Check box 13 on Form W-2
+- Report income on Schedule C
+- Counts as self-employment income
+
+Farm Income:
+- Use Schedule F
+- Net farm profit or loss affects earned income
+- Conservation Reserve Program (CRP) payments can be elected to count as earned income
+
+Business Losses:
+- If you have a loss, it reduces your total earned income
+- You cannot have negative earned income
+- If loss exceeds other earned income, earned income is zero
+
+Students and EITC
+
+Full-Time Students:
+- If YOU are a full-time student, you can still claim EITC if you otherwise qualify
+- If your CHILD is a full-time student, they may qualify until age 24
+- The student age test is different for taxpayer vs. qualifying child
+
+What Counts as a Student:
+- Enrolled for the number of hours/courses considered full-time
+- At least 5 months during the year
+- At a school with regular teaching staff and curriculum
+- Includes colleges, universities, technical schools, trade schools
+
+Work-Study Programs:
+- Income from work-study counts as earned income
+- Scholarship/grant money generally does NOT count
+
+Separated or Divorced Parents
+
+Who Claims the Child:
+- Generally, the custodial parent (who the child lived with for more nights)
+- Custodial parent can release the claim using Form 8332
+- But Form 8332 only releases dependency exemption and child tax credit, NOT EITC
+- For EITC, the child must meet the residency test (lived with you more than 6 months)
+
+Tiebreaker Rules:
+If both parents could claim the child:
+1. The parent with whom the child lived longer can claim EITC
+2. If equal time, the parent with higher AGI can claim EITC
+3. If one parent but the other doesn't claim, a non-parent relative with higher AGI might claim
+
+Important: The rules for child tax credit and EITC are different!
+
+Foster Parents and EITC
+
+Foster Children Can Be Qualifying Children If:
+- Placed by an authorized placement agency
+- Placed by court order
+- Child meets all four tests (Relationship, Age, Residency, Joint Return)
+- Must have lived with you for more than half the year
+
+Foster Care Payments:
+- Difficulty of care payments from state/agency are NOT taxable income
+- They also don't count as earned income
+- You must have OTHER earned income to claim EITC
+- Keep records showing authorized placement
+
+Adoption and EITC
+
+Adopted Children:
+- Treated the same as biological children for EITC
+- Includes legally adopted children and children placed for adoption
+- Must meet all four qualifying child tests
+
+Adoption Assistance Payments:
+- Generally not taxable if for qualified adoption expenses
+- Don't count as earned income
+- You need other earned income to claim EITC
+
+International Adoptions:
+- Child must have valid SSN
+- Until finalized, may be treated as placed for adoption
+
+Native American/Tribal Issues
+
+Tribal Income:
+- Per capita payments from tribal land or natural resources may be excluded from income
+- If excluded, they don't count as earned income for EITC
+- Check specific tribal agreements and IRS guidance
+
+Reservations:
+- Must live in the U.S. for residency test
+- Tribal land within the U.S. counts
+- Keep documentation of residence
+
+Incarceration
+
+Taxpayers in Prison:
+- You cannot claim EITC for any month you were incarcerated
+- Even one day in a month makes that month ineligible
+- Upon release, you can claim EITC for months not incarcerated if you otherwise qualify
+
+Children of Incarcerated Parents:
+- Child can still be your qualifying child if they meet the tests
+- Temporary absence (incarceration) counts as living with you if:
+  - The absence is temporary
+  - You maintain the home
+  - Child returns after release
+
+Homeless Individuals and EITC
+
+No Permanent Address:
+- You can still claim EITC
+- Shelter addresses can be used
+- Temporary addresses are acceptable
+- Child must have lived with you for more than half the year
+
+Documentation:
+- School records showing same address
+- Shelter records
+- Letters from social service agencies
+- Any evidence showing child lived with you
+
+Immigrant and Non-Citizen Issues
+
+Valid Social Security Numbers Required:
+- You must have an SSN valid for employment
+- Spouse must have an SSN valid for employment (if filing jointly)
+- Children must have SSNs valid for employment
+- ITINs (Individual Taxpayer Identification Numbers) do NOT qualify for EITC
+
+Resident Aliens:
+- Must be U.S. resident alien for entire year
+- Use the Substantial Presence Test or Green Card Test
+- Nonresident aliens cannot claim EITC
+
+Death of Spouse or Child
+
+Deceased Spouse:
+- If spouse died during the year, you may be able to file jointly for that year
+- You may qualify as a qualifying surviving spouse in following years
+- This affects your income limits and filing status
+
+Deceased Child:
+- A child who died during the year can be your qualifying child
+- Child must have lived with you for more than half the time they were alive
+- You need proof of birth and death
+
+Amending Returns for Missed EITC
+
+You Can Go Back 3 Years:
+- If you didn't claim EITC but qualified, file Form 1040-X (Amended Return)
+- You have 3 years from the original return due date
+- You can still get refunds for those years
+
+How to Amend:
+- Complete Form 1040-X
+- Attach Schedule EIC if you have qualifying children
+- Include any supporting documentation
+- Explain why you're amending
+
+COVID-19 Special Rules (If Applicable)
+
+Looking Backward Option:
+- For tax years affected by COVID, special rules allowed using prior year income
+- Check if any disaster-related special rules apply to your situation
+- Economic Impact Payments did NOT count as income
+
+Temporary Work Disruptions:
+- Unemployment doesn't count as earned income
+- But temporary absence from work didn't affect qualifying child residency test
+
+Remember: Each situation is unique. When in doubt, consult IRS Publication 596 or a qualified tax professional.
+
+Source: IRS Publication 596, IRS Publication 501, IRS Publication 519, Various IRS Notices

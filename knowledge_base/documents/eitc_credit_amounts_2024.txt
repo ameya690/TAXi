@@ -1,0 +1,197 @@
+EITC Credit Amounts and Phase-Out Information for Tax Year 2024
+
+Maximum Credit Amounts by Number of Qualifying Children
+
+For Tax Year 2024, the maximum EITC amounts are:
+- No qualifying children: $632
+- One qualifying child: $4,213
+- Two qualifying children: $6,960
+- Three or more qualifying children: $7,830
+
+These amounts are the MAXIMUM you can receive. Your actual credit depends on your earned income and filing status.
+
+Income Limits for Tax Year 2024
+
+SINGLE, HEAD OF HOUSEHOLD, OR QUALIFYING SURVIVING SPOUSE:
+No qualifying children:
+- Maximum earned income/AGI: $18,591
+- Maximum credit: $632
+
+One qualifying child:
+- Maximum earned income/AGI: $49,084
+- Maximum credit: $4,213
+
+Two qualifying children:
+- Maximum earned income/AGI: $55,768
+- Maximum credit: $6,960
+
+Three or more qualifying children:
+- Maximum earned income/AGI: $59,899
+- Maximum credit: $7,830
+
+MARRIED FILING JOINTLY:
+No qualifying children:
+- Maximum earned income/AGI: $24,210
+- Maximum credit: $632
+
+One qualifying child:
+- Maximum earned income/AGI: $55,768
+- Maximum credit: $4,213
+
+Two qualifying children:
+- Maximum earned income/AGI: $62,449
+- Maximum credit: $6,960
+
+Three or more qualifying children:
+- Maximum earned income/AGI: $66,819
+- Maximum credit: $7,830
+
+How the EITC is Calculated
+
+The EITC has three phases:
+
+PHASE 1: Earning Phase (Credit Increases with Income)
+- As your earned income increases from $0, your credit increases
+- Each dollar of earned income increases your credit by a percentage (called the "credit percentage")
+- This continues until you reach the maximum credit amount
+
+PHASE 2: Plateau Phase (Maximum Credit)
+- Once you reach a certain income level, you receive the maximum credit
+- Your credit remains at this maximum as income increases within a range
+- This is the "sweet spot" where you get the full credit
+
+PHASE 3: Phase-Out Range (Credit Decreases)
+- After the plateau, the credit begins to decrease as income increases
+- For each additional dollar earned, your credit decreases by a percentage (called the "phase-out percentage")
+- Eventually, at the maximum income limit, the credit reaches zero
+
+Credit Percentages for Tax Year 2024:
+
+NO QUALIFYING CHILDREN:
+- Credit percentage: 7.65%
+- Phase-out percentage: 7.65%
+- Phase-out begins: $9,800 (Single), $16,370 (Married)
+
+ONE QUALIFYING CHILD:
+- Credit percentage: 34%
+- Phase-out percentage: 15.98%
+- Phase-out begins: $21,560 (Single), $28,120 (Married)
+
+TWO QUALIFYING CHILDREN:
+- Credit percentage: 40%
+- Phase-out percentage: 21.06%
+- Phase-out begins: $21,560 (Single), $28,120 (Married)
+
+THREE OR MORE QUALIFYING CHILDREN:
+- Credit percentage: 45%
+- Phase-out percentage: 21.06%
+- Phase-out begins: $21,560 (Single), $28,120 (Married)
+
+Example Calculations:
+
+EXAMPLE 1: Single with Two Children, Earned Income $25,000
+- Income is in the plateau phase
+- Qualifies for maximum credit: $6,960
+
+EXAMPLE 2: Single with Two Children, Earned Income $45,000
+- Income is in phase-out range
+- Credit begins reducing from maximum
+- Phase-out amount: ($45,000 - $21,560) × 21.06% = $4,935
+- Credit: $6,960 - $4,935 = $2,025
+
+EXAMPLE 3: Married with One Child, Earned Income $18,000
+- Income is in earning phase
+- Maximum credit would be $4,213
+- But at $18,000 income, child must meet all tests
+- Credit calculation: $18,000 × 34% = $6,120
+- But maximum is $4,213, so credit = $4,213
+
+EXAMPLE 4: Single, No Children, Earned Income $12,000
+- Income is in earning phase
+- Credit: $12,000 × 7.65% = $918
+- But maximum for no children is $632
+- Credit = $632 (maximum)
+
+Investment Income Limit
+
+For 2024, you cannot claim the EITC if your investment income is more than $11,000.
+
+Investment income includes:
+- Taxable interest
+- Tax-exempt interest
+- Dividends
+- Capital gains
+- Royalty income
+- Rental income (passive)
+- Income from passive activities
+
+Special Rules for Disaster Areas
+
+If you lived in a federally declared disaster area, special rules may apply:
+- You may be able to use your prior year's earned income if it was higher
+- This can qualify you for a larger credit
+- Check IRS disaster relief announcements for specific disasters
+
+Using Prior Year Earned Income
+
+If your 2024 earned income is less than your 2023 earned income, you can elect to use your 2023 earned income to figure your 2024 EITC.
+
+This can help you if:
+- You lost a job in 2024
+- Your hours were reduced
+- You took time off for medical reasons
+- Any situation where your 2024 income was lower
+
+To use prior year income:
+- You must have had earned income in both years
+- Complete the EITC worksheet in the instructions
+- Attach a statement to your return electing to use prior year income
+
+EITC and Other Credits
+
+The EITC can be combined with other tax credits:
+- Child Tax Credit (CTC)
+- Additional Child Tax Credit (ACTC)
+- Child and Dependent Care Credit
+- Education credits (American Opportunity, Lifetime Learning)
+- Premium Tax Credit (for health insurance)
+
+These credits don't reduce each other - you can claim all that you qualify for.
+
+EITC Refund Timing
+
+Important dates:
+- IRS cannot issue EITC refunds before mid-February (by law)
+- This delay applies to the entire refund if you claim EITC
+- File early, but expect refund after February 15
+- Use IRS "Where's My Refund?" tool to track your refund
+
+State EITC Programs
+
+Many states offer their own EITC that supplements the federal credit:
+- Some are refundable, some are non-refundable
+- Percentages of federal EITC vary by state
+- Some states have separate applications
+- Check your state's tax website for details
+
+States with EITC programs (as of 2024):
+California, Colorado, Connecticut, Delaware, District of Columbia, Illinois, Indiana, Iowa, Kansas, Louisiana, Maine, Maryland, Massachusetts, Michigan, Minnesota, Montana, Nebraska, New Jersey, New Mexico, New York, Ohio, Oklahoma, Oregon, Rhode Island, South Carolina, Vermont, Virginia, Washington, Wisconsin
+
+Historical Context
+
+The EITC amounts are adjusted annually for inflation. They have generally increased over time:
+- 2023 maximum (3+ children): $7,430
+- 2024 maximum (3+ children): $7,830
+- Increase due to inflation adjustments
+
+Important Reminders
+
+1. You must file a tax return to claim the EITC, even if you don't owe tax
+2. The credit is refundable - you can get money back even if you owe no tax
+3. Both earned income AND AGI must be within the limits
+4. Use the IRS EITC Assistant to estimate your credit
+5. Keep good records in case of an audit
+6. File electronically for fastest processing
+7. Choose direct deposit for fastest refund
+
+Source: IRS Publication 596, IRS Revenue Procedure 2023-34, IRS Form 1040 Instructions

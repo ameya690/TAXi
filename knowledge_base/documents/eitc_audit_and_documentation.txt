@@ -1,0 +1,322 @@
+EITC Audits, Documentation, and Compliance
+
+Understanding EITC Audits and What to Expect
+
+The EITC has higher audit rates than many other tax credits due to its complexity and history of errors. However, if you're honest and have proper documentation, an audit doesn't need to be stressful.
+
+Why EITC Returns Are Audited
+
+Common Reasons for EITC Audits:
+1. Qualifying child issues - child claimed by multiple people, child doesn't meet tests
+2. Income discrepancies - reported income doesn't match IRS records
+3. Filing status questions - particularly Head of Household claims
+4. Self-employment income concerns - unusually high expenses or losses
+5. Prior year issues - previously disallowed EITC claims
+6. Random selection - some returns are randomly selected for audit
+
+Red Flags That May Trigger an Audit:
+- Claiming children who don't have valid SSNs
+- Same child claimed by multiple tax preparers or taxpayers
+- Income amounts that seem inconsistent with prior years
+- Rounded numbers suggesting estimates rather than actual figures
+- Pattern of claiming EITC every year with borderline income
+- Using a tax preparer with history of fraudulent claims
+
+Types of EITC Audits
+
+1. CORRESPONDENCE AUDIT (Most Common):
+- Conducted entirely by mail
+- IRS sends Letter 566 or similar notice
+- Requests specific documentation
+- You respond by mail with required documents
+- Usually resolved within 30-90 days
+
+2. OFFICE AUDIT:
+- You visit an IRS office
+- Bring requested documents
+- Meet with IRS auditor
+- Usually scheduled in advance
+- Less common for EITC
+
+3. FIELD AUDIT:
+- IRS agent visits your home or business
+- Rare for EITC-only issues
+- Usually involves other tax issues too
+
+Documents You Should Keep
+
+ALWAYS Keep for at Least 3 Years:
+
+For Qualifying Children:
+1. Birth certificates or adoption papers
+2. School records (showing child's name, dates, and your address)
+3. Medical records (showing your address and child's name)
+4. Childcare provider records
+5. Form 8332 (if applicable for divorced/separated parents)
+6. Court documents for custody arrangements
+7. Any official document showing child lived with you
+
+For Income:
+1. All Forms W-2
+2. Forms 1099 (all types)
+3. Business records if self-employed (receipts, invoices, bank statements)
+4. Schedule C with all supporting documentation
+5. Bank statements showing income deposits
+6. Pay stubs for the entire year
+
+For Filing Status:
+1. Documents showing marital status
+2. Proof of household expenses paid
+3. Utility bills in your name
+4. Rent receipts or mortgage statements
+5. Grocery receipts and household expense records
+
+General Records:
+1. Copy of filed tax return
+2. All IRS correspondence
+3. Proof of address throughout the year
+4. Any relevant court orders or legal documents
+
+How to Respond to an IRS EITC Audit
+
+STEP 1: Don't Panic
+- An audit letter doesn't mean you did something wrong
+- It's a verification process
+- Respond calmly and thoroughly
+
+STEP 2: Read the Letter Carefully
+- Note the specific items being questioned
+- Check the response deadline (usually 30 days)
+- Understand exactly what documentation is needed
+
+STEP 3: Gather Your Documentation
+- Collect all documents listed in the IRS letter
+- Make copies - never send originals unless specifically required
+- Organize documents clearly
+- Label everything
+
+STEP 4: Prepare Your Response
+- Write a cover letter explaining each document
+- Be clear and concise
+- Address each question or concern
+- Provide contact information
+
+STEP 5: Send Your Response
+- Use certified mail with return receipt
+- Keep copies of everything you send
+- Send before the deadline
+- If you need more time, contact the IRS immediately
+
+STEP 6: Follow Up
+- Check the status of your audit after 30 days
+- Respond to any additional requests promptly
+- Keep all correspondence
+
+Common Audit Questions and How to Answer
+
+QUESTION: "Prove the child lived with you for more than 6 months"
+PROVIDE:
+- School records showing your address
+- Medical records showing your address
+- Childcare provider statement
+- Letter from school or doctor
+- Utility bills showing your address
+- Calendar or diary showing child's presence (if available)
+
+QUESTION: "Prove your relationship to the child"
+PROVIDE:
+- Birth certificate
+- Adoption papers
+- Legal guardianship documents
+- Foster care placement documents
+- Court orders
+
+QUESTION: "Prove the child's age"
+PROVIDE:
+- Birth certificate
+- Passport
+- School records showing age/grade
+- Medical records showing birthdate
+
+QUESTION: "Prove your filing status"
+PROVIDE:
+- Marriage certificate or divorce decree
+- Records showing you paid more than half household costs
+- Bills and receipts in your name
+- Bank statements showing payments
+
+QUESTION: "Verify your earned income"
+PROVIDE:
+- All W-2s
+- All 1099s
+- Business records if self-employed
+- Bank statements
+- Contracts or agreements
+
+Form 8862: Information to Claim EITC After Disallowance
+
+If your EITC was reduced or disallowed in a prior year, you may need to file Form 8862 before you can claim EITC again.
+
+You MUST file Form 8862 if:
+- Your EITC was reduced or disallowed for any reason other than math/clerical error
+- You're now claiming EITC again
+- The disallowance was for a tax year after 1996
+
+You DON'T need Form 8862 if:
+- You didn't claim EITC in the intervening years
+- The only reason for disallowance was math or clerical error
+- You've already filed Form 8862 and been approved
+
+EITC Ban Periods
+
+Serious Violations Lead to Ban:
+
+2-Year Ban:
+- Reckless or intentional disregard of EITC rules
+- Cannot claim EITC for 2 years
+
+10-Year Ban:
+- Fraudulent EITC claim
+- Cannot claim EITC for 10 years
+
+Lifetime Ban:
+- Conviction of fraud in claiming EITC
+- Can NEVER claim EITC again
+
+During the ban:
+- You cannot claim EITC even if you otherwise qualify
+- The ban applies even if your circumstances change
+- No exceptions
+
+How to Avoid a Ban:
+- Be honest on your tax return
+- Only claim children who meet ALL tests
+- Report all income accurately
+- Keep proper documentation
+- Don't exaggerate expenses or losses
+- Use reputable tax preparers
+
+EITC Due Diligence for Tax Preparers
+
+If you use a tax preparer, they must:
+- Complete Form 8867 (Paid Preparer's Due Diligence Checklist)
+- Ask appropriate questions about your EITC claim
+- Review your documents
+- Keep records of their due diligence
+- Not make fraudulent claims
+
+Your Responsibilities:
+- Provide truthful information
+- Give preparer all necessary documents
+- Review your return before signing
+- Understand what's on your return
+- You're ultimately responsible for your return's accuracy
+
+Identity Theft and EITC
+
+If Someone Files Using Your Information:
+1. File Form 14039 (Identity Theft Affidavit)
+2. File your legitimate return on paper
+3. Contact IRS Identity Protection Specialized Unit
+4. Keep records of all actions taken
+5. Monitor your IRS account
+
+IRS May:
+- Issue you an Identity Protection PIN (IP PIN)
+- Flag your account for extra security
+- Require additional verification for future returns
+
+Preventing EITC Fraud
+
+Protect Yourself:
+1. Guard your SSN and your children's SSNs
+2. Choose tax preparers carefully
+3. Review your return thoroughly before signing
+4. File early to prevent fraudulent returns
+5. Use IRS e-file
+6. Monitor "Where's My Refund?" for unauthorized filings
+7. Check your IRS transcript periodically
+
+Warning Signs of Preparer Fraud:
+- Promises specific refund amounts before seeing documents
+- Charges fees based on refund percentage
+- Suggests claiming ineligible children
+- Wants refund direct deposited to their account
+- Won't sign return or provide PTIN
+- Won't give you a copy of your return
+
+What to Do If You Made a Mistake
+
+If You Realize You Made an Error:
+1. File an amended return (Form 1040-X) as soon as possible
+2. Pay back any excess credit received
+3. Include an explanation
+4. This shows good faith and may prevent penalties
+
+Voluntary Disclosure:
+- Better to admit an error than wait for audit
+- IRS looks favorably on voluntary corrections
+- May reduce or eliminate penalties
+
+Getting Help
+
+Free Resources:
+- IRS EITC Assistant Tool (online)
+- IRS Publication 596
+- Local IRS Taxpayer Assistance Centers
+- IRS phone helpline: 1-800-829-1040
+
+Free Tax Preparation:
+- VITA (Volunteer Income Tax Assistance) for income under $60,000
+- TCE (Tax Counseling for the Elderly) age 60+
+- IRS Free File for income under $73,000
+
+Professional Help:
+- Enrolled Agents (EAs)
+- Certified Public Accountants (CPAs)
+- Tax Attorneys
+- IRS-certified preparers
+
+If You Can't Pay:
+- IRS offers payment plans
+- Request installment agreement
+- May qualify for penalty abatement
+- Don't ignore the issue
+
+Important Rights
+
+As a Taxpayer, You Have the Right To:
+1. Quality service from the IRS
+2. Be informed about tax laws
+3. Pay only the correct amount of tax
+4. Challenge the IRS's position
+5. Appeal an IRS decision
+6. Finality (limits on audit periods)
+7. Privacy and confidentiality
+8. Professional and courteous treatment
+9. Representation (can hire someone to represent you)
+10. A fair and just tax system
+
+Taxpayer Advocate Service:
+- Independent organization within IRS
+- Helps if you're experiencing hardship
+- Free assistance
+- Can intervene on your behalf
+- Call 1-877-777-4778
+
+Final Tips for EITC Compliance
+
+1. Keep organized records from the beginning of the year
+2. Use IRS EITC Assistant before filing
+3. Double-check all SSNs and dates
+4. Be honest - never exaggerate or lie
+5. Respond promptly to all IRS correspondence
+6. Keep copies of everything for at least 3 years
+7. Use reputable tax preparation services
+8. File electronically when possible
+9. Read your return carefully before signing
+10. When in doubt, ask for professional help
+
+Remember: The EITC exists to help working families. If you legitimately qualify and have proper documentation, you have nothing to fear from an audit.
+
+Source: IRS Publication 596, IRS Circular 230, Treasury Inspector General for Tax Administration, IRS Audit Process Guidelines
