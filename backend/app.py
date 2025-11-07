@@ -12,6 +12,7 @@ from config.settings import Settings
 from routes.health import health_bp
 from routes.assist import assist_bp
 from routes.eligibility import eligibility_bp
+from routes.tax_notice import tax_notice_bp
 
 logger = structlog.get_logger(__name__)
 SETTINGS = Settings()  # reads env
@@ -35,6 +36,7 @@ def create_app():
     app.register_blueprint(health_bp, url_prefix="/")
     app.register_blueprint(assist_bp, url_prefix="/api")
     app.register_blueprint(eligibility_bp, url_prefix="/api/eligibility")
+    app.register_blueprint(tax_notice_bp, url_prefix="/api/tax-notice")
 
     @app.before_request
     def _incr():

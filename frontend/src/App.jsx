@@ -2,6 +2,7 @@ import React, { useState } from 'react'
 import Chat from './components/Chat.jsx'
 import EligibilityCalculator from './components/EligibilityCalculator.jsx'
 import AdminPanel from './components/AdminPanel.jsx'
+import TaxNoticeExplainer from './components/TaxNoticeExplainer.jsx'
 import en from './locales/en.json'
 import es from './locales/es.json'
 
@@ -144,6 +145,12 @@ export default function App() {
             ✅ {t('tab_eligibility')}
           </button>
           <button 
+            onClick={() => setTab('notice')} 
+            style={{...styles.navButton, ...(tab === 'notice' ? styles.navButtonActive : {})}}
+          >
+            📄 {t('tab_notice')}
+          </button>
+          <button 
             onClick={() => setTab('admin')} 
             style={{...styles.navButton, ...(tab === 'admin' ? styles.navButtonActive : {})}}
           >
@@ -154,6 +161,7 @@ export default function App() {
         <main style={styles.main}>
           {tab === 'chat' && <Chat lang={lang} t={t} />}
           {tab === 'eligibility' && <EligibilityCalculator lang={lang} t={t} />}
+          {tab === 'notice' && <TaxNoticeExplainer lang={lang} t={t} />}
           {tab === 'admin' && <AdminPanel t={t} />}
         </main>
 

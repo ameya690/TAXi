@@ -4,6 +4,7 @@ import LoginPage from './components/LoginPage'
 import Chat from './components/Chat.jsx'
 import EligibilityCalculator from './components/EligibilityCalculator.jsx'
 import AdminPanel from './components/AdminPanel.jsx'
+import TaxNoticeExplainer from './components/TaxNoticeExplainer.jsx'
 import en from './locales/en.json'
 import es from './locales/es.json'
 
@@ -272,6 +273,14 @@ function MainApp() {
               ✅ Eligibility
             </button>
             <button 
+              onClick={() => setTab('notice')} 
+              style={{...styles.navButton, ...(tab === 'notice' ? styles.navButtonActive : {})}}
+              onMouseOver={(e) => !tab === 'notice' && (e.target.style.background = '#f7fafc')}
+              onMouseOut={(e) => !tab === 'notice' && (e.target.style.background = 'transparent')}
+            >
+              📄 {t('tab_notice')}
+            </button>
+            <button 
               onClick={() => setTab('admin')} 
               style={{...styles.navButton, ...(tab === 'admin' ? styles.navButtonActive : {})}}
               onMouseOver={(e) => !tab === 'admin' && (e.target.style.background = '#f7fafc')}
@@ -333,6 +342,9 @@ function MainApp() {
               <button onClick={() => { setTab('eligibility'); setMenuOpen(false); }} style={{...styles.navButton, justifyContent: 'flex-start', padding: '15px'}}>
                 ✅ Eligibility Calculator
               </button>
+              <button onClick={() => { setTab('notice'); setMenuOpen(false); }} style={{...styles.navButton, justifyContent: 'flex-start', padding: '15px'}}>
+                📄 {t('tab_notice')}
+              </button>
               <button onClick={() => { setTab('admin'); setMenuOpen(false); }} style={{...styles.navButton, justifyContent: 'flex-start', padding: '15px'}}>
                 🛠️ Admin Panel
               </button>
@@ -363,6 +375,7 @@ function MainApp() {
           <div style={styles.card}>
             {tab === 'chat' && <Chat lang={lang} t={t} />}
             {tab === 'eligibility' && <EligibilityCalculator lang={lang} t={t} />}
+            {tab === 'notice' && <TaxNoticeExplainer lang={lang} t={t} />}
             {tab === 'admin' && <AdminPanel t={t} />}
           </div>
         </main>
