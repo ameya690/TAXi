@@ -1,6 +1,8 @@
 # Copyright 2025
 # Apache-2.0
 import os
+from pathlib import Path
+from dotenv import load_dotenv
 from flask import Flask, jsonify
 from flask_cors import CORS
 from flask_limiter import Limiter
@@ -8,11 +10,16 @@ from flask_limiter.util import get_remote_address
 from prometheus_client import Counter, generate_latest, CONTENT_TYPE_LATEST
 import structlog
 
+# Load .env file
+env_path = Path(__file__).parent / '.env'
+load_dotenv(dotenv_path=env_path)
+
 from config.settings import Settings
 from routes.health import health_bp
 from routes.assist import assist_bp
 from routes.eligibility import eligibility_bp
 from routes.tax_notice import tax_notice_bp
+from routes.assistant import assistant_bp
 
 logger = structlog.get_logger(__name__)
 SETTINGS = Settings()  # reads env
@@ -37,6 +44,7 @@ def create_app():
     app.register_blueprint(assist_bp, url_prefix="/api")
     app.register_blueprint(eligibility_bp, url_prefix="/api/eligibility")
     app.register_blueprint(tax_notice_bp, url_prefix="/api/tax-notice")
+    app.register_blueprint(assistant_bp, url_prefix="/api/assistant")
 
     @app.before_request
     def _incr():

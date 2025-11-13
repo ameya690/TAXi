@@ -3,19 +3,23 @@ import threading
 import structlog
 from config.settings import Settings
 from typing import Optional
+import requests
+import json
 
 logger = structlog.get_logger(__name__)
 
 _SYSTEM_EN = (
-    "You are TAX Intelligence Bot, a careful assistant focused ONLY on U.S. Earned Income Tax Credit (EITC). "
-    "Use the provided context from official IRS materials when possible. If you are unsure or the "
-    "question is outside EITC scope, say so and suggest contacting the IRS or a qualified tax professional. "
+    "You are TAX Intelligence Bot, a helpful tax assistant. "
+    "When provided with tax documents or IRS materials, analyze them carefully and provide accurate information. "
+    "For EITC questions, use official IRS materials. For uploaded documents, analyze the specific content provided. "
+    "If you are unsure, say so and suggest consulting a qualified tax professional. "
     "Always include a brief disclaimer: 'Informational only, not tax advice.'"
 )
 _SYSTEM_ES = (
-    "Eres TAX Intelligence Bot, un asistente cuidadoso enfocado SOLO en el Crédito Tributario por Ingreso del Trabajo (EITC) de EE. UU. "
-    "Usa el contexto provisto de materiales oficiales del IRS cuando sea posible. Si no estás seguro o la pregunta "
-    "está fuera del alcance del EITC, dilo y sugiere contactar al IRS o a un profesional de impuestos. "
+    "Eres TAX Intelligence Bot, un asistente fiscal útil. "
+    "Cuando se te proporcionen documentos fiscales o materiales del IRS, analízalos cuidadosamente y proporciona información precisa. "
+    "Para preguntas sobre EITC, usa materiales oficiales del IRS. Para documentos cargados, analiza el contenido específico proporcionado. "
+    "Si no estás seguro, dilo y sugiere consultar a un profesional de impuestos calificado. "
     "Incluye siempre el aviso: 'Solo con fines informativos, no es asesoramiento fiscal.'"
 )
 
@@ -71,12 +75,74 @@ class LLM:
         
         Args:
             question: User's question
-            context: Retrieved context from knowledge base
+            context: Retrieved context from knowledge base or uploaded documents
             lang: Language code ("en" or "es")
             
         Returns:
             Generated answer with disclaimer
         """
+        # Route to appropriate provider
+        if self.s.llm_provider == "openrouter":
+            return self._generate_openrouter(question, context, lang)
+        else:
+            return self._generate_transformers(question, context, lang)
+    
+    def _generate_openrouter(self, question: str, context: str, lang: str = "en") -> str:
+        """Generate answer using OpenRouter API."""
+        try:
+            if not self.s.openrouter_api_key:
+                logger.error("openrouter_api_key_missing")
+                return self._get_fallback_response(lang)
+            
+            system = _SYSTEM_EN if lang.startswith("en") else _SYSTEM_ES
+            
+            # Build prompt with context
+            user_message = f"Question: {question}\n\nContext:\n{context}\n\nPlease provide a detailed answer based on the context above."
+            
+            # Call OpenRouter API
+            response = requests.post(
+                "https://openrouter.ai/api/v1/chat/completions",
+                headers={
+                    "Authorization": f"Bearer {self.s.openrouter_api_key}",
+                    "Content-Type": "application/json",
+                    "HTTP-Referer": "https://github.com/yourusername/taxi",  # Optional
+                    "X-Title": "TAX Intelligence Bot"  # Optional
+                },
+                json={
+                    "model": self.s.openrouter_model,
+                    "messages": [
+                        {"role": "system", "content": system},
+                        {"role": "user", "content": user_message}
+                    ],
+                    "max_tokens": 2000,
+                    "temperature": 0.7
+                },
+                timeout=30
+            )
+            
+            if response.status_code != 200:
+                logger.error("openrouter_api_error", status=response.status_code, response=response.text)
+                return self._get_fallback_response(lang)
+            
+            data = response.json()
+            text = data["choices"][0]["message"]["content"].strip()
+            
+            # Ensure disclaimer exists
+            if "Informational only" not in text and "Solo con fines informativos" not in text:
+                if lang.startswith("en"):
+                    text += "\n\n— Informational only, not tax advice."
+                else:
+                    text += "\n\n— Solo con fines informativos, no es asesoramiento fiscal."
+            
+            logger.info("answer_generated_openrouter", answer_length=len(text), model=self.s.openrouter_model)
+            return text
+            
+        except Exception as e:
+            logger.error("openrouter_generation_failed", error=str(e), question=question[:100])
+            return self._get_fallback_response(lang)
+    
+    def _generate_transformers(self, question: str, context: str, lang: str = "en") -> str:
+        """Generate answer using local transformers model."""
         try:
             pipe = self._ensure_pipe()
 
