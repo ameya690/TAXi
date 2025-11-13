@@ -12,6 +12,10 @@ class Settings(BaseModel):
     llm_provider: str = os.getenv("LLM_PROVIDER", "transformers")
     model_id: str = os.getenv("MODEL_ID", "google/flan-t5-base")
     max_new_tokens: int = int(os.getenv("MAX_NEW_TOKENS", "256"))
+    
+    # OpenRouter API
+    openrouter_api_key: str = os.getenv("OPENROUTER_API_KEY", "")
+    openrouter_model: str = os.getenv("OPENROUTER_MODEL", "anthropic/claude-3.5-sonnet")
 
     # Retrieval
     embed_model: str = os.getenv("EMBED_MODEL", "sentence-transformers/all-MiniLM-L6-v2")

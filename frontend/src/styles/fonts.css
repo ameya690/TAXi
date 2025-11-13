@@ -1,0 +1,24 @@
+/* Custom Logo Fonts */
+
+@font-face {
+  font-family: 'Blush Asliring';
+  src: url('/fonts/BlushAsliring-Regular.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Cravelo';
+  src: url('/fonts/NaveidArabicDEMO-Regular.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Logo-specific class */
+.taxi-logo {
+  font-family: 'Cravelo', 'Blush Asliring', serif;
+  font-weight: normal;
+  letter-spacing: 0.05em;
+}

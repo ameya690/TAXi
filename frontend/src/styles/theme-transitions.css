@@ -1,0 +1,112 @@
+/* Theme Transitions */
+
+* {
+  transition: background-color 120ms cubic-bezier(0.4, 0.0, 0.2, 1), 
+              border-color 120ms cubic-bezier(0.4, 0.0, 0.2, 1), 
+              color 120ms cubic-bezier(0.4, 0.0, 0.2, 1),
+              box-shadow 150ms cubic-bezier(0.4, 0.0, 0.2, 1);
+}
+
+/* Disable transitions for elements that shouldn't animate */
+input,
+textarea,
+select,
+button:active,
+[role="button"]:active {
+  transition: none;
+}
+
+/* Respect reduced motion preference */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* Theme switch fade */
+.theme-switching {
+  opacity: 0.8;
+  transition: opacity 100ms ease;
+}
+
+/* Dark mode body styles */
+body {
+  background-color: #fafafa;
+  color: #171717;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+body.dark-mode {
+  background-color: #0a0a0a;
+  color: #fafafa;
+}
+
+/* Smooth scrollbar for dark mode */
+::-webkit-scrollbar {
+  width: 12px;
+  height: 12px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f5f5f5;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #d4d4d4;
+  border-radius: 6px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #a3a3a3;
+}
+
+/* Dark mode scrollbar */
+.dark-mode ::-webkit-scrollbar-track {
+  background: #262626;
+}
+
+.dark-mode ::-webkit-scrollbar-thumb {
+  background: #525252;
+}
+
+.dark-mode ::-webkit-scrollbar-thumb:hover {
+  background: #737373;
+}
+
+/* Focus rings for accessibility */
+button:focus-visible,
+a:focus-visible,
+input:focus-visible,
+textarea:focus-visible,
+select:focus-visible,
+[role="button"]:focus-visible,
+[tabindex]:focus-visible {
+  outline: 2px solid var(--focus-ring-color, #4f46e5);
+  outline-offset: 2px;
+  transition: outline 120ms ease;
+}
+
+/* Dark mode focus ring */
+.dark-mode button:focus-visible,
+.dark-mode a:focus-visible,
+.dark-mode input:focus-visible,
+.dark-mode textarea:focus-visible,
+.dark-mode select:focus-visible,
+.dark-mode [role="button"]:focus-visible,
+.dark-mode [tabindex]:focus-visible {
+  outline-color: #818cf8;
+}
+
+/* Remove default focus outline */
+button:focus,
+a:focus,
+input:focus,
+textarea:focus,
+select:focus {
+  outline: none;
+}

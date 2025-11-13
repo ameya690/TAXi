@@ -1,6 +1,6 @@
 # TAX Intelligence Bot — Intelligent Tax Assistance (EITC Assistant)
 
-An **AI-powered** EITC helper focused on **eligibility screening** and **safe guidance**, with **English/Spanish** UI and a simple admin page.
+An **AI-powered** EITC helper focused on **eligibility screening**, **tax notice explanation**, and **safe guidance**, with **English/Spanish** UI and a simple admin page.
 
 > ✅ **No OpenAI key required** — uses a small local model via Hugging Face `transformers` (defaults to `google/flan-t5-base`).  
 > 🖥️ **One-liners** to run locally (Python + Node).  
@@ -14,6 +14,8 @@ An **AI-powered** EITC helper focused on **eligibility screening** and **safe gu
 **Prereqs**
 - Python 3.11+
 - Node.js 18+
+- Tesseract OCR (for tax notice analysis): `brew install tesseract` (macOS) or `apt-get install tesseract-ocr` (Linux)
+- Poppler (for PDF processing): `brew install poppler` (macOS) or `apt-get install poppler-utils` (Linux)
 - (First run downloads model weights from Hugging Face; no token needed for default model.)
 
 **1) Backend**
@@ -47,6 +49,12 @@ npm run dev  # opens http://localhost:3000
 - App: http://localhost:3000  
 - API: http://localhost:5000  
 - Admin page: http://localhost:3000/admin
+
+**Features Available:**
+- 💬 **Chat**: Ask questions about EITC
+- ✅ **Eligibility Calculator**: Check EITC eligibility
+- 📄 **Tax Notice Explainer**: Upload and analyze IRS/state tax notices (NEW!)
+- 🛠️ **Admin Panel**: View system metrics
 
 > Tip: Drop official IRS EITC PDFs or text into `knowledge_base/documents/` and re-run:
 >
@@ -118,6 +126,24 @@ ENABLE_METRICS=true
 ```
 
 > **Important**: EITC **dollar amounts & phase-outs change** each year. This demo ships without official numeric thresholds. The eligibility endpoint applies structural checks and returns **“informational only”** results. Load current IRS publications into the KB to power answers, and implement/confirm numeric thresholds in `services/eligibility_rules.py` before using for real decisions.
+
+---
+
+## Tax Notice Explainer
+
+The **Tax Notice Explainer** feature helps users understand IRS and state tax notices by:
+
+1. **Extracting text** from PDFs and images using OCR
+2. **Identifying key details** (notice number, tax year, deadlines, amounts)
+3. **Generating plain-language summaries** using AI
+4. **Providing actionable next steps**
+5. **Highlighting referenced sections** from the original notice
+
+**Supported formats**: PDF, PNG, JPG, JPEG, TIFF, BMP, GIF (max 10MB)
+
+**Languages**: English and Spanish
+
+For detailed documentation, see [TAX_NOTICE_EXPLAINER.md](./TAX_NOTICE_EXPLAINER.md)
 
 ---
 
