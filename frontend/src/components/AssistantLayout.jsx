@@ -20,7 +20,7 @@ export default function AssistantLayout({
   const [isResizingRight, setIsResizingRight] = useState(false)
   
   // Use props if provided, otherwise use local state
-  const selectedMatter = propSelectedMatter || 'Acme Corp'
+  const selectedMatter = propSelectedMatter || 'TechVentures LLC'
   const docsInScope = propDocsInScope || []
   
   // Context state (local)

@@ -94,6 +94,13 @@ class LLM:
                 logger.error("openrouter_api_key_missing")
                 return self._get_fallback_response(lang)
             
+            # Debug: Log API key info
+            api_key = self.s.openrouter_api_key
+            logger.info("openrouter_request", 
+                       model=self.s.openrouter_model,
+                       api_key_prefix=api_key[:15] if api_key else "NONE",
+                       api_key_length=len(api_key) if api_key else 0)
+            
             system = _SYSTEM_EN if lang.startswith("en") else _SYSTEM_ES
             
             # Build prompt with context

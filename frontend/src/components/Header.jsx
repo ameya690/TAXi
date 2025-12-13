@@ -11,7 +11,8 @@ export default function Header({
   isLoading = false,
   region = 'US',
   user = null,
-  onLogout
+  onLogout,
+  onSwitchExperience = null
 }) {
   const { isDarkMode, toggleTheme } = useTheme()
   const tokens = useThemedTokens()
@@ -353,6 +354,23 @@ export default function Header({
               <span style={{ fontSize: tokens.iconSize.inline }}>👤</span>
               <span>{user.name || 'User'}</span>
             </div>
+          )}
+
+          {onSwitchExperience && (
+            <button
+              style={styles.logoutButton}
+              onClick={onSwitchExperience}
+              onMouseOver={(e) => {
+                e.currentTarget.style.background = tokens.colors.neutral[50]
+                e.currentTarget.style.borderColor = tokens.colors.neutral[300]
+              }}
+              onMouseOut={(e) => {
+                e.currentTarget.style.background = tokens.colors.surface1
+                e.currentTarget.style.borderColor = tokens.borders.color
+              }}
+            >
+              Switch Experience
+            </button>
           )}
 
           {onLogout && (

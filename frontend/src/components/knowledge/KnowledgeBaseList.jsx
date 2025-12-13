@@ -19,7 +19,6 @@ export default function KnowledgeBaseList({ knowledgeBases, onToggle, onEdit, on
   const getSourceBadge = (source) => {
     const badges = {
       vault: { label: 'Vault', color: '#667eea', bg: '#eff6ff' },
-      dms: { label: 'DMS', color: '#f59e0b', bg: '#fef3c7' },
       external: { label: 'External', color: '#10b981', bg: '#d1fae5' },
       custom: { label: 'Custom', color: '#8b5cf6', bg: '#f3e8ff' }
     }

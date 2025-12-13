@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react'
+import EITCInfoDialog from './eligibility/EITCInfoDialog'
 
 export default function EligibilityCalculator({ lang, t }) {
   const [form, setForm] = useState({
@@ -20,6 +21,7 @@ export default function EligibilityCalculator({ lang, t }) {
   
   const [result, setResult] = useState(null)
   const [loading, setLoading] = useState(false)
+  const [showInfoDialog, setShowInfoDialog] = useState(true)
 
   const handleSubmit = async (e) => {
     e.preventDefault()
@@ -53,14 +55,46 @@ export default function EligibilityCalculator({ lang, t }) {
         borderRadius: '12px',
         color: 'white',
         marginBottom: '30px',
-        boxShadow: '0 4px 15px rgba(102, 126, 234, 0.3)'
+        boxShadow: '0 4px 15px rgba(102, 126, 234, 0.3)',
+        display: 'flex',
+        justifyContent: 'space-between',
+        alignItems: 'center'
       }}>
-        <h2 style={{ margin: 0, fontSize: '28px', marginBottom: '8px' }}>
-          🧮 EITC Eligibility Calculator
-        </h2>
-        <p style={{ margin: 0, opacity: 0.9, fontSize: '14px' }}>
-          Calculate your Earned Income Tax Credit for 2024
-        </p>
+        <div>
+          <h2 style={{ margin: 0, fontSize: '28px', marginBottom: '8px' }}>
+            🧮 EITC Eligibility Calculator
+          </h2>
+          <p style={{ margin: 0, opacity: 0.9, fontSize: '14px' }}>
+            Calculate your Earned Income Tax Credit for 2024
+          </p>
+        </div>
+        <button
+          onClick={() => setShowInfoDialog(true)}
+          style={{
+            background: 'rgba(255, 255, 255, 0.2)',
+            border: '2px solid rgba(255, 255, 255, 0.5)',
+            color: 'white',
+            padding: '10px 20px',
+            borderRadius: '8px',
+            cursor: 'pointer',
+            fontSize: '14px',
+            fontWeight: '600',
+            transition: 'all 0.2s',
+            display: 'flex',
+            alignItems: 'center',
+            gap: '8px'
+          }}
+          onMouseOver={(e) => {
+            e.currentTarget.style.background = 'rgba(255, 255, 255, 0.3)'
+            e.currentTarget.style.borderColor = 'rgba(255, 255, 255, 0.8)'
+          }}
+          onMouseOut={(e) => {
+            e.currentTarget.style.background = 'rgba(255, 255, 255, 0.2)'
+            e.currentTarget.style.borderColor = 'rgba(255, 255, 255, 0.5)'
+          }}
+        >
+          ℹ️ What is EITC?
+        </button>
       </div>
 
       {/* Income Sources Guide */}
@@ -546,6 +580,14 @@ export default function EligibilityCalculator({ lang, t }) {
             {result.disclaimer}
           </div>
         </div>
+      )}
+
+      {/* Info Dialog */}
+      {showInfoDialog && (
+        <EITCInfoDialog
+          onClose={() => setShowInfoDialog(false)}
+          onGetStarted={() => setShowInfoDialog(false)}
+        />
       )}
     </div>
   )
