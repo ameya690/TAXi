@@ -146,7 +146,7 @@ export const workflowTemplates = [
     steps: [
       {
         id: 'collect-inputs',
-        name: 'Collect Entity Information',
+        name: 'Collect Entity Information & Documents',
         type: 'collect',
         inputs: {
           schema: {
@@ -155,7 +155,9 @@ export const workflowTemplates = [
             owners: { type: 'number', label: 'Number of Owners', required: true },
             structure: { type: 'select', label: 'Legal Structure', options: ['LLC', 'Corp', 'Partnership', 'Other'], required: true }
           }
-        }
+        },
+        uploadDocuments: true,
+        documentTypes: ['Operating Agreement', 'Articles of Organization', 'Form 8832 (Entity Classification Election)']
       },
       {
         id: 'normalize-docs',
@@ -184,107 +186,6 @@ export const workflowTemplates = [
         type: 'review',
         tools: ['citation_validator'],
         prompt: 'Validate Reg §301.7701 citations and review analysis.'
-      }
-    ]
-  },
-  {
-    id: 'transfer-pricing',
-    name: 'Transfer Pricing Benchmark Summary',
-    description: 'Compile and analyze transfer pricing benchmarks for intercompany transactions',
-    tags: ['Research', 'Review'],
-    usageCount: 0,
-    lastEdited: new Date().toISOString(),
-    steps: [
-      {
-        id: 'collect-inputs',
-        name: 'Define Transaction',
-        type: 'collect',
-        inputs: {
-          schema: {
-            transactionType: { type: 'select', label: 'Transaction Type', options: ['Services', 'Tangible Goods', 'Intangibles', 'Financing'], required: true },
-            amount: { type: 'number', label: 'Transaction Amount', required: true },
-            parties: { type: 'text', label: 'Related Parties', required: true }
-          }
-        }
-      },
-      {
-        id: 'normalize-docs',
-        name: 'Extract Comparables',
-        type: 'transform',
-        tools: ['database_search', 'comparable_extractor'],
-        prompt: 'Search databases for comparable uncontrolled transactions.'
-      },
-      {
-        id: 'run-analyses',
-        name: 'Statistical Analysis',
-        type: 'analyze',
-        tools: ['statistical_analyzer', 'interquartile_calculator'],
-        prompt: 'Perform statistical analysis on comparables for {{transactionType}} transactions.'
-      },
-      {
-        id: 'assemble-draft',
-        name: 'Generate Benchmark Report',
-        type: 'draft',
-        tools: ['report_generator', 'chart_creator'],
-        prompt: 'Create transfer pricing benchmark report with statistical analysis and charts.'
-      },
-      {
-        id: 'qa-citations',
-        name: 'Validate Methodology',
-        type: 'review',
-        tools: ['methodology_validator'],
-        prompt: 'Review methodology compliance with IRC §482 and OECD guidelines.'
-      }
-    ]
-  },
-  {
-    id: 'withholding-checklist',
-    name: 'US-International Withholding Checklist',
-    description: 'Generate comprehensive withholding tax checklist for cross-border payments',
-    tags: ['Filing', 'Advisory'],
-    usageCount: 0,
-    lastEdited: new Date().toISOString(),
-    steps: [
-      {
-        id: 'collect-inputs',
-        name: 'Payment Details',
-        type: 'collect',
-        inputs: {
-          schema: {
-            paymentType: { type: 'select', label: 'Payment Type', options: ['Dividends', 'Interest', 'Royalties', 'Services', 'Other'], required: true },
-            country: { type: 'text', label: 'Recipient Country', required: true },
-            amount: { type: 'number', label: 'Payment Amount', required: true },
-            hasW8: { type: 'boolean', label: 'W-8 Form on File?', required: true }
-          }
-        }
-      },
-      {
-        id: 'normalize-docs',
-        name: 'Review Tax Forms',
-        type: 'transform',
-        tools: ['form_analyzer'],
-        prompt: 'Extract and validate information from W-8 forms and supporting documents.'
-      },
-      {
-        id: 'run-analyses',
-        name: 'Treaty Analysis',
-        type: 'analyze',
-        tools: ['treaty_lookup', 'withholding_calculator'],
-        prompt: 'Analyze treaty benefits for {{paymentType}} to {{country}} and calculate withholding rate.'
-      },
-      {
-        id: 'assemble-draft',
-        name: 'Generate Checklist',
-        type: 'draft',
-        tools: ['checklist_generator'],
-        prompt: 'Create comprehensive withholding checklist with compliance steps and deadlines.'
-      },
-      {
-        id: 'qa-citations',
-        name: 'Compliance Review',
-        type: 'review',
-        tools: ['compliance_checker'],
-        prompt: 'Verify compliance with IRC §1441-1443 and treaty provisions.'
       }
     ]
   },

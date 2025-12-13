@@ -17,17 +17,6 @@ export default function Knowledge({ lang = 'en', t = (k) => k }) {
       autoSync: true
     },
     {
-      id: 'kb-dms',
-      name: 'DMS Integration',
-      description: 'Documents from external DMS (placeholder)',
-      source: 'dms',
-      enabled: false,
-      docCount: 0,
-      lastIndexed: null,
-      autoSync: false,
-      placeholder: true
-    },
-    {
       id: 'kb-irs-pubs',
       name: 'IRS Publications',
       description: 'Official IRS publications and guidance',

@@ -44,9 +44,12 @@ dist-ssr/
 .DS_Store
 
 # Environment
+.env
 .env.local
 .env.*.local
 *.log
+backend/.env
+frontend/.env
 
 # Embeddings (optional - these are large binary files)
 # knowledge_base/embeddings/*.faiss
@@ -60,3 +63,16 @@ htmlcov/
 
 # OS
 Thumbs.db
+
+# Markdown documentation files
+*.md
+
+# Uploads and user data
+backend/uploads/
+
+# API keys and sensitive configuration
+*.key
+*.pem
+*.cert
+config/secrets.json
+backend/config/api_keys.json

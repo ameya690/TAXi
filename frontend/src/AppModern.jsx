@@ -1,7 +1,9 @@
-import React, { useState } from 'react'
+import React, { useState, useEffect } from 'react'
 import { AuthProvider, useAuth } from './contexts/AuthContext'
 import { ThemeProvider } from './contexts/ThemeContext'
 import LoginPage from './components/LoginPage'
+import ExperienceSelector from './components/ExperienceSelector'
+import AppRegular from './AppRegular'
 import AdminPanel from './components/AdminPanel.jsx'
 import Assistant from './components/Assistant.jsx'
 import Workflows from './components/Workflows.jsx'
@@ -25,11 +27,44 @@ function MainApp() {
   const [tab, setTab] = useState('assistant')
   const [isLoading, setIsLoading] = useState(false)
   const [breadcrumbs, setBreadcrumbs] = useState(['TAXi'])
+  const [experience, setExperience] = useState(null)
+  const [showExperienceSelector, setShowExperienceSelector] = useState(false)
 
   const t = (k) => dicts[lang][k] || k
 
+  // Load experience from localStorage on mount
+  useEffect(() => {
+    const savedExperience = localStorage.getItem('experience')
+    if (savedExperience) {
+      setExperience(savedExperience)
+    } else {
+      setShowExperienceSelector(true)
+    }
+  }, [])
+
   if (!isAuthenticated) {
     return <LoginPage />
+  }
+
+  // Show experience selector if no experience is set
+  if (showExperienceSelector || !experience) {
+    return (
+      <ExperienceSelector
+        onSelect={(exp) => {
+          setExperience(exp)
+          setShowExperienceSelector(false)
+        }}
+      />
+    )
+  }
+
+  // Route to Regular shell
+  if (experience === 'regular') {
+    return (
+      <AppRegular
+        onSwitchExperience={() => setShowExperienceSelector(true)}
+      />
+    )
   }
 
   const handleSearch = (query) => {
@@ -83,6 +118,7 @@ function MainApp() {
         region="US"
         user={user}
         onLogout={logout}
+        onSwitchExperience={() => setShowExperienceSelector(true)}
       />
 
       <Navigation

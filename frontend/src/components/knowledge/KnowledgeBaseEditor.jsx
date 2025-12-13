@@ -280,7 +280,6 @@ export default function KnowledgeBaseEditor({ knowledgeBase, onSave, onCancel })
                   style={styles.input}
                 >
                   <option value="vault">Vault</option>
-                  <option value="dms">DMS</option>
                   <option value="external">External</option>
                   <option value="custom">Custom</option>
                 </select>
